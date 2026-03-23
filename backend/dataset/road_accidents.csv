@@ -1,0 +1,2001 @@
+speed,weather,road_condition,time,location,traffic_density,accident_risk,accident_severity
+57.454011884736246,Snowy,Icy,9,Urban,High,1,Low
+115.07143064099162,Foggy,Dry,20,Highway,High,1,High
+93.1993941811405,Foggy,Dry,4,Urban,Medium,1,Medium
+79.86584841970367,Foggy,Under Maintenance,22,Highway,High,1,High
+35.601864044243655,Snowy,Icy,19,Urban,High,1,Low
+35.59945203362027,Rainy,Wet,19,Highway,High,1,Medium
+25.808361216819947,Snowy,Under Maintenance,5,Urban,High,1,Low
+106.61761457749351,Rainy,Icy,3,Rural,Low,1,Low
+80.11150117432088,Snowy,Icy,1,Urban,Medium,1,Low
+90.80725777960456,Snowy,Wet,21,Highway,Medium,1,High
+22.058449429580243,Rainy,Under Maintenance,15,Urban,High,1,Low
+116.99098521619943,Foggy,Icy,17,Rural,Low,1,Medium
+103.24426408004217,Rainy,Icy,4,Urban,Medium,1,High
+41.23391106782762,Sunny,Icy,21,Highway,Medium,0,Medium
+38.18249672071006,Sunny,Wet,3,Highway,High,1,Medium
+38.34045098534338,Rainy,Under Maintenance,12,Rural,High,1,Low
+50.42422429595377,Snowy,Under Maintenance,18,Highway,Medium,1,High
+72.4756431632238,Sunny,Under Maintenance,22,Urban,Medium,0,Medium
+63.194501864211574,Sunny,Under Maintenance,1,Urban,Low,0,Medium
+49.12291401980419,Snowy,Dry,12,Urban,Medium,0,Medium
+81.18528947223794,Snowy,Dry,10,Highway,Medium,0,Medium
+33.94938606520418,Foggy,Under Maintenance,21,Urban,High,1,Low
+49.21446485352182,Snowy,Wet,3,Urban,Medium,1,Low
+56.63618432936917,Rainy,Dry,21,Urban,High,1,Low
+65.6069984217036,Rainy,Icy,19,Rural,Medium,1,Low
+98.51759613930136,Foggy,Dry,19,Highway,Medium,1,High
+39.96737821583598,Sunny,Icy,14,Highway,Medium,0,Medium
+71.42344384136116,Sunny,Under Maintenance,3,Highway,Low,0,High
+79.24145688620425,Snowy,Dry,8,Rural,High,1,Medium
+24.645041271999773,Rainy,Wet,6,Highway,Low,1,Medium
+80.75448519014384,Sunny,Dry,18,Rural,Medium,0,Medium
+37.05241236872915,Foggy,Dry,18,Rural,Low,0,Low
+26.50515929852795,Foggy,Dry,5,Highway,High,1,Medium
+114.88855372533332,Rainy,Under Maintenance,5,Urban,Medium,1,Medium
+116.56320330745594,Foggy,Wet,19,Urban,Low,1,Medium
+100.83973481164611,Foggy,Dry,14,Highway,Low,1,High
+50.46137691733707,Rainy,Wet,14,Highway,High,1,Medium
+29.767211400638388,Snowy,Under Maintenance,19,Rural,Low,1,Low
+88.42330265121569,Snowy,Icy,8,Highway,High,1,High
+64.01524937396013,Foggy,Dry,3,Rural,Medium,0,Low
+32.20382348447788,Snowy,Wet,17,Highway,Medium,1,High
+69.51769101112703,Snowy,Wet,17,Urban,Low,1,Low
+23.43885211152184,Foggy,Under Maintenance,4,Urban,Medium,1,Low
+110.9320402078782,Snowy,Dry,19,Highway,Medium,1,High
+45.877998160001695,Foggy,Icy,22,Rural,Low,1,Low
+86.2522284353982,Sunny,Wet,10,Urban,Medium,0,Medium
+51.1711076089411,Rainy,Dry,4,Rural,Low,0,Low
+72.00680211778108,Rainy,Icy,21,Highway,High,1,High
+74.67102793432797,Snowy,Wet,3,Highway,High,1,High
+38.485445552552704,Snowy,Wet,11,Urban,High,1,Low
+116.95846277645586,Snowy,Icy,1,Highway,Low,1,High
+97.51328233611146,Rainy,Icy,12,Urban,Low,1,Medium
+113.9498941564189,Sunny,Under Maintenance,9,Rural,Medium,1,Medium
+109.48273504276489,Sunny,Dry,8,Urban,Medium,0,Medium
+79.78999788110852,Rainy,Dry,9,Urban,Medium,1,Medium
+112.18742350231169,Sunny,Under Maintenance,6,Rural,Medium,1,Medium
+28.84925020519195,Rainy,Wet,3,Urban,Medium,0,Low
+39.59828624191452,Sunny,Icy,18,Urban,Low,0,Low
+24.522728891053806,Foggy,Icy,9,Highway,Low,0,Medium
+52.53303307632643,Foggy,Icy,2,Rural,High,1,Low
+58.8677289689482,Rainy,Wet,20,Urban,High,1,Low
+47.13490317738959,Sunny,Icy,18,Rural,High,1,Low
+102.87375091519293,Snowy,Icy,20,Rural,High,1,Medium
+55.67533266935893,Sunny,Under Maintenance,1,Urban,Low,0,Low
+48.093450968738075,Foggy,Wet,19,Highway,Low,1,Medium
+74.26960831582485,Foggy,Dry,9,Rural,Low,0,Low
+34.092422497476264,Sunny,Under Maintenance,1,Urban,Medium,0,Low
+100.21969807540397,Sunny,Under Maintenance,1,Rural,Medium,1,Medium
+27.45506436797708,Snowy,Dry,23,Highway,High,0,Medium
+118.68869366005173,Snowy,Under Maintenance,16,Highway,Medium,1,High
+97.22447692966574,Sunny,Wet,15,Highway,Low,1,High
+39.87156815341724,Sunny,Icy,15,Urban,High,1,Low
+20.55221171236024,Sunny,Wet,13,Urban,High,1,Low
+101.54614284548342,Sunny,Dry,6,Highway,Medium,0,High
+90.68573438476172,Rainy,Dry,20,Urban,High,1,Medium
+92.90071680409874,Sunny,Under Maintenance,10,Highway,Medium,0,High
+97.12703466859458,Snowy,Wet,23,Urban,Medium,1,High
+27.404465173409037,Foggy,Wet,0,Highway,High,1,High
+55.84657285442726,Rainy,Dry,10,Rural,Medium,0,Low
+31.58690595251297,Sunny,Wet,22,Highway,Medium,0,Medium
+106.31034258755935,Foggy,Dry,20,Highway,Medium,1,High
+82.3298126827558,Rainy,Wet,3,Urban,Medium,1,Medium
+53.08980248526492,Foggy,Wet,6,Urban,High,1,Low
+26.355835028602364,Sunny,Wet,14,Urban,Low,0,Low
+51.098232171566224,Sunny,Dry,17,Urban,Low,0,Medium
+52.518332202674706,Snowy,Under Maintenance,11,Urban,Medium,1,Medium
+92.96061783380641,Sunny,Wet,16,Urban,Medium,0,Medium
+83.75574713552132,Sunny,Dry,0,Rural,Medium,0,Low
+108.72127425763266,Rainy,Dry,10,Highway,Low,1,High
+67.22149251619493,Snowy,Wet,0,Highway,Medium,1,High
+31.95942459383017,Rainy,Wet,14,Highway,High,1,Medium
+91.3244787222995,Foggy,Under Maintenance,20,Rural,High,1,Medium
+96.07850486168974,Sunny,Dry,9,Highway,High,1,High
+76.12771975694963,Foggy,Dry,6,Rural,Low,0,Medium
+97.0967179954561,Rainy,Icy,1,Rural,Medium,1,Medium
+69.37955963643907,Sunny,Dry,9,Rural,Medium,0,Medium
+72.2732829381994,Sunny,Under Maintenance,23,Highway,Medium,0,Medium
+62.75410183585496,Rainy,Icy,3,Rural,Low,1,Low
+22.54191267440952,Rainy,Icy,11,Highway,Low,0,Medium
+30.789142699330444,Rainy,Icy,18,Highway,Low,1,Medium
+23.142918568673426,Rainy,Wet,10,Urban,Low,0,Medium
+83.64104112637804,Rainy,Wet,7,Urban,High,1,Medium
+51.43559810763267,Sunny,Dry,17,Rural,Low,0,Low
+70.85706911647029,Rainy,Icy,10,Rural,Low,1,Low
+110.7566473926093,Sunny,Under Maintenance,10,Highway,Low,1,High
+44.92922291488749,Sunny,Wet,12,Rural,Medium,0,Low
+61.038292303562976,Rainy,Under Maintenance,2,Rural,Medium,1,Medium
+95.55511385430486,Rainy,Under Maintenance,11,Highway,Medium,1,High
+42.87981654916224,Snowy,Wet,2,Rural,High,1,Low
+27.697990982879297,Sunny,Wet,9,Rural,High,1,Low
+48.975145291376805,Rainy,Wet,16,Highway,Low,1,Medium
+36.122128725400444,Rainy,Wet,21,Highway,Medium,1,High
+112.96976523425731,Rainy,Icy,1,Urban,High,1,Medium
+100.8120379564417,Snowy,Icy,16,Highway,Medium,1,High
+83.34037565104234,Snowy,Icy,15,Urban,High,1,Medium
+107.14605901877177,Foggy,Icy,1,Rural,High,1,Medium
+100.36720768991145,Sunny,Dry,21,Highway,Low,0,High
+38.657005888603585,Foggy,Icy,19,Highway,Low,1,Medium
+109.25589984899777,Rainy,Wet,5,Highway,High,1,High
+73.93422419156508,Snowy,Under Maintenance,9,Rural,Low,1,Medium
+100.74401551640625,Snowy,Icy,9,Urban,High,1,Medium
+109.60912999234932,Foggy,Dry,7,Rural,High,1,Medium
+51.80034749718639,Snowy,Wet,0,Rural,Medium,0,Medium
+31.005192452767677,Rainy,Under Maintenance,12,Highway,Low,0,Medium
+42.79351625419417,Snowy,Under Maintenance,23,Urban,Low,0,Low
+62.71077886262563,Foggy,Icy,8,Rural,Low,1,Low
+101.80147659224932,Rainy,Under Maintenance,21,Highway,Medium,1,High
+106.07305832563435,Foggy,Icy,9,Rural,Medium,1,Medium
+20.69521305311907,Snowy,Icy,14,Rural,Medium,0,Low
+71.07473025775657,Foggy,Wet,4,Highway,Low,1,High
+61.7411003148779,Foggy,Wet,21,Highway,Low,1,Medium
+42.21078104707303,Sunny,Dry,15,Urban,Low,0,Low
+31.986536733368283,Snowy,Wet,12,Rural,Medium,1,Low
+53.7615171403628,Snowy,Wet,21,Highway,Medium,1,High
+114.29097039125192,Foggy,Icy,19,Highway,High,1,High
+52.320293202075526,Sunny,Wet,17,Urban,Medium,1,Low
+71.87906217433661,Snowy,Icy,10,Urban,High,1,Medium
+90.30189588951778,Rainy,Icy,8,Highway,Low,1,High
+56.3629602379294,Foggy,Wet,15,Urban,Medium,1,Low
+117.17820827209607,Snowy,Dry,1,Highway,Low,1,High
+116.24472949421113,Rainy,Dry,1,Rural,Low,1,Medium
+45.17822958253642,Snowy,Under Maintenance,11,Urban,Low,1,Low
+69.72485058923854,Rainy,Under Maintenance,7,Rural,Low,1,Low
+50.087830981676966,Foggy,Wet,8,Rural,Medium,1,Medium
+48.48404943774676,Snowy,Dry,11,Rural,Low,0,Low
+23.68869473545328,Snowy,Icy,8,Highway,High,1,Medium
+80.95643339798968,Sunny,Under Maintenance,9,Rural,Medium,1,Low
+70.26790232288616,Foggy,Icy,1,Rural,Low,1,Medium
+25.147875124998933,Rainy,Under Maintenance,15,Rural,Medium,0,Low
+47.86464642366114,Snowy,Wet,19,Highway,High,1,High
+110.82658859666537,Snowy,Dry,6,Rural,Low,1,Medium
+43.95618906669724,Rainy,Under Maintenance,1,Rural,High,1,Low
+34.48948720912231,Foggy,Dry,0,Urban,Low,0,Low
+68.94527602775631,Sunny,Icy,18,Highway,High,1,High
+118.56504541106007,Sunny,Wet,3,Rural,Low,1,Medium
+44.20552715115004,Snowy,Dry,23,Urban,Medium,0,Medium
+87.21355474058785,Rainy,Wet,21,Highway,Low,1,High
+96.16196153287176,Snowy,Dry,1,Highway,Medium,0,High
+43.76375439923997,Rainy,Icy,13,Highway,Low,1,High
+92.82163486118596,Sunny,Icy,1,Highway,Low,1,High
+56.77831327192532,Foggy,Wet,14,Highway,High,1,High
+83.23058305935794,Rainy,Icy,11,Highway,High,1,High
+83.35297107608946,Sunny,Under Maintenance,4,Rural,High,1,Medium
+73.57746840747585,Snowy,Dry,19,Rural,Low,1,Medium
+29.02897700544083,Rainy,Icy,6,Rural,Low,1,Low
+103.5302495589238,Foggy,Under Maintenance,23,Rural,Low,1,Medium
+52.07800649717358,Snowy,Wet,20,Urban,Medium,1,Low
+38.651851039985424,Snowy,Under Maintenance,9,Rural,Medium,1,Low
+24.077514155476393,Sunny,Wet,13,Highway,Low,0,Medium
+79.08929431882419,Rainy,Wet,13,Rural,High,1,Medium
+87.75643618422824,Snowy,Dry,4,Rural,High,1,Medium
+21.658782892785617,Foggy,Dry,17,Highway,High,0,Medium
+71.2093058299281,Rainy,Under Maintenance,23,Rural,Low,1,Medium
+42.649577519793795,Foggy,Dry,13,Rural,High,1,Low
+84.51727904094498,Snowy,Dry,1,Rural,Low,0,Medium
+37.436642900499145,Foggy,Dry,11,Urban,Medium,0,Low
+89.09377381024659,Sunny,Under Maintenance,21,Rural,High,1,Medium
+58.67353463005374,Foggy,Icy,23,Highway,Medium,1,Medium
+113.67299887367345,Rainy,Dry,5,Highway,High,1,High
+33.75209441459933,Foggy,Dry,3,Rural,Low,0,Low
+54.10663510502585,Foggy,Under Maintenance,12,Rural,Low,1,Medium
+31.347352124058908,Sunny,Icy,3,Rural,Low,0,Low
+112.46936182785628,Foggy,Dry,21,Highway,Low,1,High
+107.7339353380981,Foggy,Wet,13,Highway,High,1,High
+45.79416277151556,Snowy,Under Maintenance,15,Urban,Medium,1,Low
+85.99840460341791,Snowy,Dry,3,Urban,Low,1,Medium
+101.72222002012158,Rainy,Dry,23,Urban,High,1,Medium
+75.52008115994623,Snowy,Wet,0,Highway,Medium,1,High
+72.96505783560065,Snowy,Wet,12,Urban,Low,1,Low
+44.18522909004517,Snowy,Under Maintenance,3,Rural,Medium,1,Low
+29.310276780589923,Snowy,Under Maintenance,19,Rural,Low,1,Low
+109.72157579533267,Sunny,Wet,17,Highway,Medium,1,High
+110.04180571633304,Snowy,Under Maintenance,5,Urban,Medium,1,Medium
+83.31014572732678,Sunny,Wet,2,Rural,Low,1,Medium
+53.90297910487007,Sunny,Dry,22,Highway,High,0,Medium
+54.92095746126609,Snowy,Wet,12,Urban,Medium,1,Low
+92.59556788702393,Foggy,Wet,15,Rural,Low,1,Medium
+109.71102599525771,Sunny,Icy,4,Urban,Medium,1,Medium
+108.70864242651173,Foggy,Wet,3,Highway,Medium,1,High
+97.98755458576238,Foggy,Wet,20,Urban,High,1,Medium
+84.20316461542878,Snowy,Icy,7,Highway,Medium,1,Medium
+28.413996499504883,Rainy,Under Maintenance,18,Urban,Medium,0,Low
+36.162871409461374,Snowy,Icy,13,Rural,Low,0,Low
+109.85541885270793,Rainy,Dry,6,Highway,Low,1,High
+80.64290596595899,Rainy,Icy,13,Highway,High,1,High
+20.919705161662964,Snowy,Dry,5,Highway,Medium,0,Medium
+30.14715428660321,Snowy,Under Maintenance,11,Urban,Medium,0,Low
+86.35017691080559,Rainy,Icy,15,Urban,Medium,1,Medium
+20.50615838462187,Snowy,Icy,16,Rural,High,1,Low
+36.08080514174986,Rainy,Under Maintenance,12,Highway,Medium,1,Medium
+74.87337893665861,Foggy,Dry,22,Highway,Low,1,High
+89.18951976926932,Snowy,Icy,13,Urban,High,1,Medium
+85.19612595026005,Foggy,Dry,6,Urban,Low,1,Low
+42.426930946055975,Sunny,Icy,13,Rural,Low,0,Low
+91.2179221347536,Foggy,Wet,14,Rural,High,1,Medium
+43.72490874968001,Foggy,Icy,11,Urban,Low,0,Low
+52.539969815926774,Rainy,Under Maintenance,16,Highway,Medium,1,Medium
+94.64914051180241,Foggy,Under Maintenance,8,Rural,High,1,Medium
+84.96328990472146,Snowy,Dry,21,Urban,Low,1,Medium
+104.9223410494178,Rainy,Icy,14,Urban,Medium,1,Medium
+85.76128923003434,Sunny,Dry,11,Highway,Medium,0,High
+76.83086033354716,Snowy,Dry,1,Urban,Low,0,Medium
+29.36747678280925,Sunny,Wet,4,Urban,Medium,0,Low
+56.77158030594335,Foggy,Wet,12,Rural,High,1,Low
+46.520236768172545,Snowy,Under Maintenance,19,Urban,Low,1,Low
+44.39896433790835,Snowy,Dry,22,Urban,Medium,0,Medium
+117.30105547524455,Sunny,Under Maintenance,7,Rural,Medium,1,Medium
+59.30977246667604,Snowy,Icy,13,Highway,Low,1,Medium
+109.20465551771133,Snowy,Dry,14,Highway,Low,1,High
+83.11386259972629,Snowy,Dry,10,Rural,Low,0,Medium
+99.48113035416485,Foggy,Icy,0,Rural,Low,1,Medium
+70.2637093105192,Sunny,Icy,20,Highway,High,1,High
+77.69038846263591,Snowy,Under Maintenance,2,Highway,Low,1,High
+69.25176938188639,Rainy,Under Maintenance,16,Highway,High,1,High
+39.524298779804454,Rainy,Icy,18,Highway,High,1,Medium
+92.24521152615053,Rainy,Under Maintenance,13,Highway,Low,1,High
+48.07723624408558,Rainy,Icy,21,Rural,High,1,Low
+22.431596643145383,Foggy,Dry,22,Urban,Low,0,Low
+84.54722959071678,Snowy,Dry,7,Highway,Low,0,Medium
+37.71106794070489,Sunny,Wet,12,Highway,Medium,0,Medium
+114.04585843529144,Snowy,Dry,19,Urban,Low,1,High
+115.39285770025873,Foggy,Icy,2,Urban,Medium,1,Medium
+111.48643902204485,Rainy,Under Maintenance,4,Urban,High,1,Medium
+57.01587002554444,Foggy,Wet,8,Urban,Medium,1,Low
+21.545661652886743,Snowy,Under Maintenance,5,Urban,High,1,Low
+112.83185625877253,Sunny,Icy,21,Urban,Low,1,Medium
+62.81841483173143,Foggy,Dry,1,Rural,High,1,Low
+116.66548190436696,Sunny,Wet,12,Urban,High,1,Medium
+116.36199770892529,Foggy,Icy,4,Urban,Low,1,Medium
+105.300945546736,Sunny,Wet,7,Rural,High,1,High
+49.444889206958564,Sunny,Wet,22,Urban,Low,0,Low
+58.50977286019253,Rainy,Dry,0,Highway,Medium,0,High
+105.11366715168569,Sunny,Icy,19,Highway,Low,1,High
+51.69220051562777,Rainy,Under Maintenance,11,Urban,Low,1,Low
+36.94927466860925,Snowy,Wet,22,Rural,High,1,Low
+75.68012624583501,Snowy,Wet,10,Highway,Medium,1,High
+113.6154774160781,Rainy,Under Maintenance,6,Rural,Low,1,Medium
+89.6029796674973,Rainy,Icy,14,Highway,Medium,1,High
+77.0061170089365,Foggy,Wet,21,Urban,Medium,1,Medium
+29.717649377076853,Foggy,Wet,23,Rural,High,1,Low
+81.50072266991697,Foggy,Wet,10,Rural,Low,1,High
+119.00538501042632,Snowy,Icy,21,Rural,High,1,Medium
+34.0084015236524,Foggy,Icy,15,Highway,Low,1,Medium
+71.83296523637367,Sunny,Under Maintenance,2,Highway,Medium,0,Medium
+107.73730719279554,Sunny,Icy,19,Highway,Low,1,High
+94.07686177542044,Foggy,Icy,13,Urban,Low,1,Medium
+89.7015740995268,Sunny,Dry,2,Highway,Medium,0,High
+90.24840839871092,Snowy,Under Maintenance,0,Urban,Medium,1,Medium
+55.94911512197552,Sunny,Wet,20,Rural,Low,0,Low
+49.35918442644933,Snowy,Icy,14,Rural,High,1,Low
+100.93611554785136,Rainy,Wet,0,Urban,Low,1,Medium
+101.01133946791808,Rainy,Wet,16,Highway,Medium,1,High
+106.70723185801037,Rainy,Dry,1,Urban,High,1,High
+111.32405525564712,Rainy,Icy,19,Rural,Medium,1,Medium
+71.13423988609378,Sunny,Under Maintenance,5,Rural,Medium,0,Medium
+70.15162946871996,Foggy,Icy,7,Urban,High,1,Medium
+99.82951789667752,Sunny,Wet,15,Highway,Medium,0,High
+84.99639307777652,Snowy,Under Maintenance,18,Highway,Medium,1,High
+90.19668772577033,Sunny,Icy,0,Urban,Medium,0,Medium
+99.57926694361011,Sunny,Wet,2,Urban,Medium,1,Medium
+109.00053418175663,Snowy,Wet,2,Highway,Medium,1,High
+53.79951568515358,Rainy,Dry,4,Rural,Medium,0,Low
+57.5582952639944,Rainy,Dry,11,Urban,Medium,0,Low
+29.3981939840869,Rainy,Dry,11,Highway,Medium,0,High
+77.8280140996174,Foggy,Wet,19,Highway,Medium,1,High
+23.59422737967421,Snowy,Icy,12,Rural,Low,0,Low
+66.55980181324603,Snowy,Dry,19,Rural,Low,0,Medium
+74.26446347075766,Sunny,Icy,8,Rural,Medium,0,Medium
+48.65412521282844,Foggy,Dry,6,Rural,Low,0,Low
+79.08332605690107,Rainy,Under Maintenance,3,Rural,High,1,Low
+23.05002499390494,Foggy,Under Maintenance,18,Urban,Low,1,Low
+23.73481887492144,Snowy,Dry,21,Highway,Medium,0,Medium
+102.26005606596583,Snowy,Wet,18,Urban,Medium,1,Medium
+56.019064141126286,Sunny,Dry,5,Urban,Low,0,Low
+32.70605126518848,Sunny,Dry,12,Urban,Medium,0,Medium
+72.22432600548044,Snowy,Wet,10,Urban,High,1,Low
+96.99935530986109,Rainy,Under Maintenance,12,Urban,High,1,Medium
+41.58210274968432,Rainy,Icy,12,Rural,Medium,1,Low
+82.28904758190004,Foggy,Dry,21,Rural,High,1,Medium
+28.5347464993768,Snowy,Wet,19,Highway,High,1,Medium
+25.16817211686077,Snowy,Dry,14,Urban,Low,0,Low
+73.13546315681481,Rainy,Wet,20,Highway,High,1,High
+74.06351216101065,Rainy,Icy,12,Rural,Low,1,Low
+83.74299014982066,Snowy,Icy,21,Rural,Medium,1,Medium
+92.60913337226616,Sunny,Under Maintenance,10,Rural,Low,1,Medium
+117.58520794625346,Snowy,Wet,18,Urban,Medium,1,Medium
+71.63003483011954,Snowy,Wet,7,Urban,Medium,1,Medium
+52.2956472941246,Rainy,Under Maintenance,19,Rural,Medium,1,Low
+99.51861947687037,Rainy,Under Maintenance,7,Highway,Medium,1,High
+47.083225126207424,Sunny,Wet,9,Highway,Medium,0,High
+63.89714207056361,Sunny,Under Maintenance,15,Rural,Low,0,Medium
+27.845638134226597,Foggy,Icy,18,Highway,Medium,0,Medium
+22.53507434154575,Snowy,Dry,22,Rural,High,0,Low
+116.26484146779251,Rainy,Icy,10,Highway,High,1,High
+103.59801205122058,Sunny,Under Maintenance,12,Rural,Medium,1,Medium
+89.59742060936979,Foggy,Wet,8,Highway,High,1,High
+60.89529444142699,Foggy,Wet,19,Urban,Low,1,Medium
+37.32943200708458,Rainy,Icy,23,Rural,Low,1,Low
+35.6437042671086,Rainy,Wet,18,Rural,Medium,1,Low
+45.02428981645953,Foggy,Under Maintenance,15,Highway,Medium,1,Medium
+74.92266647061206,Sunny,Icy,6,Rural,Medium,0,Low
+91.45959227000624,Foggy,Wet,18,Rural,High,1,Medium
+86.01973767177313,Snowy,Dry,11,Rural,High,1,Medium
+47.993389694594285,Snowy,Dry,14,Urban,Low,0,Low
+115.48652806631941,Rainy,Under Maintenance,22,Urban,High,1,Medium
+93.78969166957685,Sunny,Wet,13,Highway,Low,0,High
+75.43540525114007,Sunny,Under Maintenance,10,Urban,High,1,Medium
+81.17207462343522,Snowy,Icy,9,Highway,Low,1,High
+61.96000624277899,Foggy,Dry,10,Urban,Medium,0,Low
+44.773098950115745,Rainy,Icy,5,Highway,High,1,High
+55.597267865126156,Foggy,Wet,1,Urban,Low,1,Low
+95.78461104643691,Foggy,Under Maintenance,10,Urban,High,1,Medium
+21.439348862975585,Foggy,Under Maintenance,18,Highway,Medium,0,Medium
+31.607264050691626,Sunny,Under Maintenance,5,Rural,Low,0,Low
+24.600264202175275,Snowy,Icy,13,Rural,High,1,Low
+24.072880231897013,Sunny,Dry,19,Urban,High,0,Low
+105.54605840110072,Snowy,Icy,5,Highway,Medium,1,High
+90.36578593800236,Rainy,Icy,16,Rural,Medium,1,Medium
+67.41738290873252,Rainy,Wet,9,Highway,Low,1,High
+29.78341606510015,Foggy,Wet,0,Rural,High,1,Low
+69.16158751168324,Snowy,Wet,2,Highway,High,1,Medium
+67.34717707805657,Snowy,Dry,7,Urban,Medium,0,Medium
+37.32018699100152,Snowy,Dry,7,Highway,Medium,0,Medium
+63.385164923797305,Foggy,Wet,19,Rural,Low,1,Medium
+59.85047343973734,Foggy,Wet,21,Urban,High,1,Low
+81.58500980522165,Rainy,Dry,14,Highway,High,1,High
+83.50936508676438,Sunny,Under Maintenance,23,Rural,Low,1,Medium
+24.53040097720445,Snowy,Dry,6,Urban,Low,0,Low
+57.46126146264712,Snowy,Dry,10,Highway,Medium,0,Medium
+82.58599157142365,Sunny,Dry,6,Rural,Medium,0,Low
+70.31362585800878,Snowy,Wet,3,Highway,Low,1,Medium
+105.64898411883223,Foggy,Under Maintenance,11,Highway,Low,1,High
+85.8693631618945,Foggy,Dry,5,Urban,High,1,Medium
+36.29344270814297,Snowy,Wet,13,Urban,Low,1,Low
+27.056874740042986,Foggy,Icy,11,Rural,Low,0,Low
+84.24192782063156,Foggy,Icy,10,Urban,High,1,Medium
+22.65113105416218,Snowy,Dry,18,Rural,Low,0,Low
+78.57755812734632,Rainy,Icy,20,Highway,Medium,1,High
+114.02302414249576,Sunny,Under Maintenance,4,Highway,Medium,1,High
+77.5474177875879,Foggy,Icy,13,Rural,High,1,Low
+58.816992620652194,Rainy,Icy,20,Highway,Low,1,Medium
+84.32882184423532,Foggy,Under Maintenance,23,Urban,Medium,1,Medium
+65.82528904915166,Foggy,Dry,15,Highway,Medium,0,Medium
+74.56167893159349,Sunny,Dry,12,Urban,Medium,0,Medium
+114.14648087765252,Foggy,Under Maintenance,21,Rural,Medium,1,High
+58.610263780077425,Sunny,Under Maintenance,21,Rural,Low,0,Low
+116.11905638239142,Sunny,Under Maintenance,19,Highway,Low,1,High
+110.53506419560637,Sunny,Icy,21,Highway,Low,1,High
+39.57911347892964,Rainy,Under Maintenance,3,Urban,Low,1,Low
+26.936130087516545,Snowy,Wet,10,Urban,Medium,1,Low
+30.077800137742663,Rainy,Icy,16,Highway,High,1,Medium
+21.82218256515497,Snowy,Dry,6,Highway,High,1,Medium
+29.44429607559284,Snowy,Dry,13,Rural,Medium,0,Low
+88.30067734163569,Sunny,Dry,10,Rural,Medium,0,High
+27.1188648460229,Foggy,Icy,21,Rural,High,1,Low
+51.89756302937613,Sunny,Wet,8,Highway,High,1,Medium
+104.48753109694546,Foggy,Under Maintenance,22,Highway,Medium,1,High
+22.327193573582587,Snowy,Under Maintenance,12,Highway,Medium,0,Medium
+101.44684825889358,Sunny,Dry,22,Rural,Low,0,Medium
+48.185477477339994,Foggy,Dry,17,Highway,Low,0,High
+31.816482762165627,Rainy,Icy,10,Urban,High,1,Low
+89.67371653641507,Foggy,Wet,14,Highway,Medium,1,High
+82.8942846779884,Sunny,Under Maintenance,21,Highway,High,1,High
+107.74720135270529,Rainy,Icy,18,Highway,Low,1,High
+93.50710438038858,Foggy,Under Maintenance,0,Highway,Low,1,High
+100.34809303848486,Foggy,Dry,3,Highway,High,1,High
+48.20345725713065,Foggy,Under Maintenance,13,Urban,Low,1,Low
+37.74395437797229,Foggy,Wet,13,Urban,Medium,0,Low
+95.06147516408583,Foggy,Wet,2,Highway,High,1,High
+100.6834739267264,Rainy,Dry,16,Rural,Medium,0,Medium
+119.05051420006733,Snowy,Wet,2,Highway,Medium,1,High
+61.26176769114265,Rainy,Wet,15,Highway,Low,1,High
+57.201808579278314,Rainy,Icy,13,Highway,Medium,1,High
+97.64129607419969,Rainy,Under Maintenance,19,Rural,High,1,Medium
+54.08035402530179,Snowy,Dry,12,Rural,Medium,0,Medium
+113.07573256035647,Sunny,Dry,14,Rural,Medium,0,Medium
+105.84127518430118,Snowy,Dry,13,Urban,Medium,1,Medium
+62.89940273750184,Rainy,Dry,23,Rural,Medium,0,Low
+95.08710677914974,Foggy,Dry,18,Urban,Medium,1,Medium
+95.45428740846823,Foggy,Wet,5,Urban,Low,1,Medium
+30.312386883593263,Rainy,Icy,9,Rural,High,1,Low
+110.25529066795667,Foggy,Dry,14,Rural,Low,1,Medium
+70.52523724478571,Rainy,Icy,20,Rural,High,1,Medium
+102.64574661077417,Foggy,Icy,21,Urban,High,1,Low
+52.00496010306117,Snowy,Wet,19,Highway,High,1,Medium
+109.55232284962005,Sunny,Dry,5,Rural,High,1,Medium
+58.92016787341631,Sunny,Wet,22,Rural,High,1,Medium
+21.083765148029837,Snowy,Dry,9,Rural,Medium,0,Low
+110.53819764192636,Snowy,Wet,6,Urban,Low,1,High
+29.128667678613354,Rainy,Icy,21,Urban,Low,0,Low
+51.93136375904149,Rainy,Dry,16,Highway,Medium,0,High
+115.0061967050805,Rainy,Under Maintenance,17,Rural,High,1,Medium
+115.06071469375561,Foggy,Icy,16,Urban,Low,1,Medium
+77.34378881232861,Rainy,Under Maintenance,8,Highway,Medium,1,Medium
+83.18372121697993,Snowy,Icy,9,Rural,Medium,1,Medium
+64.84455219783197,Sunny,Wet,9,Urban,Low,0,Low
+49.32107716980646,Foggy,Dry,6,Rural,Low,0,Low
+52.8664545369916,Rainy,Icy,15,Rural,High,1,Low
+87.25184560770384,Foggy,Wet,17,Urban,High,1,Medium
+95.237452943768,Foggy,Dry,5,Urban,Low,0,Medium
+99.15790437258485,Rainy,Dry,19,Urban,High,1,Medium
+98.96181427945538,Foggy,Icy,0,Rural,Medium,1,Medium
+29.120610304869036,Sunny,Dry,0,Rural,High,0,Low
+69.44203047025815,Snowy,Icy,11,Highway,High,1,High
+25.75587600166443,Snowy,Dry,20,Rural,Medium,0,Low
+74.95288823237355,Sunny,Under Maintenance,1,Urban,High,1,Medium
+64.1530501373377,Foggy,Wet,3,Rural,Medium,1,Medium
+108.77041827582998,Rainy,Under Maintenance,16,Highway,High,1,High
+55.09150125520787,Foggy,Icy,3,Highway,Low,1,High
+31.706701642760585,Sunny,Under Maintenance,10,Urban,High,0,Low
+34.299168205283586,Foggy,Icy,21,Urban,Low,1,Low
+96.15106317174723,Snowy,Dry,3,Highway,Low,1,High
+81.8218063316261,Foggy,Dry,0,Highway,Low,0,High
+30.112267612279027,Sunny,Icy,6,Highway,Low,0,Low
+28.410680611499743,Snowy,Under Maintenance,17,Urban,Low,1,Low
+90.096913145912,Foggy,Dry,8,Highway,Medium,1,Medium
+27.276300636419354,Foggy,Wet,2,Highway,Medium,0,High
+102.18600592903562,Snowy,Dry,7,Urban,Medium,1,Medium
+90.62422271564962,Rainy,Wet,23,Rural,Low,1,Medium
+28.134878064189976,Snowy,Under Maintenance,18,Rural,High,1,Low
+28.483771408519193,Rainy,Wet,3,Highway,Medium,0,Medium
+118.66395785011754,Sunny,Wet,17,Rural,High,1,High
+57.427079575612034,Sunny,Wet,19,Rural,High,1,Low
+57.06421470668909,Snowy,Wet,10,Rural,Low,1,Medium
+101.27995672575025,Snowy,Dry,13,Rural,Low,1,Medium
+114.72485773838586,Sunny,Wet,17,Highway,Low,1,High
+118.6001063822871,Rainy,Dry,15,Rural,Medium,1,Medium
+95.33781852589416,Sunny,Wet,2,Rural,Low,0,Medium
+57.62595855309158,Snowy,Icy,14,Urban,Medium,1,Low
+28.350071669866878,Sunny,Under Maintenance,3,Highway,Medium,0,Medium
+97.71469159274368,Snowy,Wet,4,Urban,Medium,1,High
+75.8404249735805,Snowy,Icy,16,Urban,Medium,1,Low
+62.42220092469763,Sunny,Wet,6,Highway,Low,0,Medium
+110.6354385094736,Rainy,Wet,15,Rural,Medium,1,High
+31.119748230615134,Foggy,Wet,13,Urban,Low,0,Low
+69.26251042908592,Sunny,Icy,15,Highway,Low,0,High
+21.135364476741906,Foggy,Under Maintenance,6,Rural,Medium,0,Low
+66.86606419941262,Sunny,Icy,8,Highway,Low,0,High
+25.630327568183734,Foggy,Under Maintenance,3,Urban,High,1,Low
+31.881791626807193,Rainy,Wet,21,Rural,Low,0,Low
+31.752624677710486,Rainy,Dry,10,Rural,Low,0,Low
+84.92103021160635,Sunny,Wet,1,Highway,Medium,0,High
+94.60448792654233,Snowy,Under Maintenance,11,Rural,Medium,1,Medium
+78.33687650971596,Foggy,Icy,11,Urban,Low,1,Medium
+116.21725484745419,Snowy,Wet,3,Urban,Medium,1,High
+57.48705795237041,Snowy,Icy,17,Urban,High,1,Low
+48.57120862818607,Snowy,Icy,20,Highway,High,1,Medium
+106.85991281894603,Rainy,Icy,6,Rural,Medium,1,Medium
+42.35958385194526,Sunny,Wet,0,Rural,Low,0,Low
+116.32225394406113,Sunny,Icy,22,Rural,High,1,Medium
+21.215447468981633,Rainy,Icy,12,Urban,High,1,Low
+116.98788267076391,Rainy,Wet,5,Rural,Low,1,High
+24.315991195057613,Sunny,Icy,5,Urban,Medium,0,Low
+109.11431136980711,Snowy,Wet,11,Rural,High,1,Medium
+72.77011090862999,Foggy,Under Maintenance,7,Urban,Low,1,Medium
+119.29647961193004,Foggy,Under Maintenance,23,Rural,Low,1,Medium
+27.379656473539885,Foggy,Under Maintenance,21,Highway,High,1,Medium
+75.38542844013207,Snowy,Icy,18,Highway,Medium,1,High
+116.9302535619099,Sunny,Dry,4,Urban,High,1,Medium
+72.30978441701488,Rainy,Dry,17,Urban,Low,0,Medium
+82.93986381352624,Sunny,Icy,4,Rural,High,1,Medium
+89.57486889846172,Snowy,Dry,9,Rural,Medium,0,Medium
+65.45410647677733,Rainy,Wet,0,Highway,Low,1,High
+82.75580800840635,Snowy,Dry,9,Rural,Medium,0,Medium
+78.43143119231001,Foggy,Icy,4,Urban,High,1,Medium
+110.11580104909889,Foggy,Icy,11,Urban,High,1,Medium
+24.544638034145787,Snowy,Wet,21,Urban,Medium,0,Low
+48.096318959223034,Rainy,Under Maintenance,6,Urban,High,1,Low
+115.04114840765587,Rainy,Icy,8,Urban,Medium,1,Medium
+109.02637838909163,Sunny,Wet,21,Highway,High,1,High
+65.56567527857129,Foggy,Dry,20,Highway,Medium,0,Medium
+82.01325978015367,Sunny,Dry,11,Urban,Medium,0,Medium
+47.738118298113264,Sunny,Wet,22,Rural,Low,0,Low
+38.812115972376134,Snowy,Wet,0,Urban,Low,1,Low
+66.36984049399823,Snowy,Icy,10,Highway,Medium,1,High
+55.33522280260528,Sunny,Dry,20,Urban,High,0,Low
+78.3656111850872,Foggy,Wet,14,Highway,High,1,High
+27.77346369649848,Snowy,Dry,1,Highway,High,0,Medium
+117.43948076661665,Sunny,Wet,19,Urban,Medium,1,Medium
+118.62107444796028,Sunny,Dry,6,Urban,Medium,0,Medium
+89.81617140197451,Sunny,Under Maintenance,20,Rural,Medium,1,Medium
+73.60963663441204,Sunny,Icy,11,Highway,Medium,0,High
+50.95276162863277,Sunny,Dry,21,Rural,Low,0,Low
+101.37950197069486,Sunny,Under Maintenance,17,Urban,Medium,1,Medium
+88.47311725538793,Snowy,Dry,2,Highway,High,1,High
+36.26169393448913,Foggy,Dry,6,Rural,Low,0,Low
+111.09271844938425,Sunny,Under Maintenance,10,Rural,High,1,Medium
+102.2537242923169,Rainy,Dry,17,Rural,Medium,0,Medium
+114.9799913291924,Snowy,Dry,11,Urban,Low,1,High
+92.571950838836,Snowy,Icy,5,Urban,Medium,1,Medium
+81.341519593579,Sunny,Under Maintenance,4,Urban,Low,0,Low
+61.82430362906189,Snowy,Under Maintenance,0,Highway,High,1,Medium
+113.27284833540132,Sunny,Wet,11,Urban,Medium,1,Medium
+106.60638895004084,Foggy,Dry,10,Highway,Medium,1,High
+24.52186701061894,Foggy,Icy,3,Rural,Low,0,Low
+22.6366974497252,Snowy,Dry,17,Rural,Low,0,Low
+57.64633668780496,Snowy,Dry,3,Urban,Medium,0,Medium
+101.0553330781833,Rainy,Wet,16,Rural,Low,1,Medium
+118.72761293149445,Snowy,Dry,1,Urban,Medium,1,Medium
+35.04168911035282,Rainy,Icy,23,Highway,Low,1,Medium
+79.4130715352135,Foggy,Icy,21,Rural,High,1,Low
+58.08908566310215,Foggy,Wet,1,Urban,Low,1,Medium
+116.99143978146031,Sunny,Dry,11,Rural,High,1,High
+104.21189231357087,Foggy,Icy,5,Rural,Low,1,Medium
+103.83287047111378,Rainy,Dry,9,Urban,Low,1,Medium
+66.86931597949703,Snowy,Dry,22,Rural,Medium,0,Medium
+61.48195023376652,Sunny,Dry,20,Rural,Low,0,Medium
+47.34070719307063,Rainy,Wet,22,Rural,Low,1,Low
+25.637549665092713,Snowy,Dry,15,Rural,High,0,Low
+106.47223762550531,Sunny,Icy,13,Highway,Low,1,High
+101.29010091300776,Foggy,Dry,6,Rural,Medium,1,Medium
+119.97176732861305,Rainy,Icy,18,Rural,High,1,Medium
+119.66368370739053,Snowy,Dry,22,Urban,Medium,1,Medium
+75.54317056026275,Sunny,Icy,16,Highway,Medium,0,High
+96.89874151805105,Sunny,Icy,8,Urban,Medium,1,Medium
+114.47657298824281,Foggy,Dry,12,Urban,Medium,1,Medium
+104.96473906774115,Snowy,Dry,21,Urban,High,1,Medium
+44.73481017431976,Foggy,Icy,4,Highway,Low,1,Medium
+65.05441353100935,Foggy,Under Maintenance,22,Urban,Medium,1,Low
+32.9159415151495,Snowy,Wet,4,Urban,High,1,Low
+115.40510272587224,Snowy,Under Maintenance,9,Urban,Medium,1,Medium
+80.617463445088,Snowy,Under Maintenance,20,Rural,Low,1,Medium
+42.86428055034627,Rainy,Dry,9,Urban,High,1,Low
+87.17006844058567,Snowy,Wet,6,Highway,High,1,High
+81.81282404578958,Sunny,Under Maintenance,14,Highway,Low,0,Medium
+55.81627180328405,Foggy,Dry,6,Rural,High,1,Low
+31.355759219962902,Rainy,Under Maintenance,14,Highway,Low,0,Medium
+87.15731955927996,Snowy,Under Maintenance,2,Highway,High,1,High
+72.03077009037932,Rainy,Dry,18,Rural,High,1,Low
+97.23183917356393,Snowy,Dry,9,Urban,Low,0,Medium
+72.01635011119933,Rainy,Dry,14,Rural,Low,1,Low
+105.21815003185401,Foggy,Wet,2,Urban,High,1,Low
+75.19068387744855,Foggy,Under Maintenance,5,Urban,High,1,Medium
+76.09379715353862,Sunny,Dry,11,Highway,Low,0,High
+107.66536026583451,Sunny,Icy,14,Rural,Low,1,Medium
+60.3482866212397,Snowy,Under Maintenance,5,Highway,High,1,High
+33.40152284506407,Foggy,Icy,12,Highway,High,1,Medium
+22.878267631333898,Rainy,Wet,18,Urban,High,1,Low
+95.5137255673619,Rainy,Dry,2,Highway,Low,1,High
+82.03095513534646,Rainy,Icy,7,Rural,High,1,Medium
+90.40797680992236,Sunny,Wet,7,Highway,Medium,1,High
+41.296416150891076,Rainy,Dry,22,Highway,Low,0,Medium
+33.63714755867697,Sunny,Icy,19,Urban,High,1,Low
+21.45446656678819,Sunny,Icy,14,Rural,Low,0,Low
+55.058755880659696,Snowy,Wet,3,Highway,Medium,1,High
+78.99176868546331,Rainy,Dry,18,Urban,Low,1,Medium
+59.22440450997323,Rainy,Dry,20,Highway,High,1,High
+63.747492202372904,Foggy,Icy,2,Rural,Medium,1,Medium
+110.41586944937484,Snowy,Icy,12,Highway,Medium,1,High
+54.82554670233004,Foggy,Icy,7,Highway,High,1,High
+71.39894891598108,Snowy,Dry,22,Urban,High,1,Low
+98.3653012741143,Rainy,Wet,15,Highway,High,1,High
+59.65427823212701,Sunny,Wet,12,Urban,Low,0,Low
+82.20867002278735,Sunny,Dry,2,Rural,Low,0,Medium
+106.23637087467452,Sunny,Under Maintenance,15,Highway,Low,1,High
+114.9520623657642,Sunny,Wet,8,Rural,High,1,Medium
+34.70734809290379,Sunny,Icy,13,Rural,High,0,Low
+112.65876251614944,Foggy,Under Maintenance,12,Highway,Low,1,High
+69.21162930795381,Snowy,Under Maintenance,20,Urban,Medium,1,Medium
+45.82443882989584,Rainy,Wet,6,Rural,Low,1,Low
+65.91357562382613,Foggy,Under Maintenance,14,Rural,Medium,1,Medium
+118.0032575285477,Snowy,Under Maintenance,6,Highway,High,1,High
+69.26180939928696,Sunny,Wet,5,Highway,High,1,High
+52.875161028750824,Snowy,Wet,1,Highway,Low,1,High
+83.34008543167258,Snowy,Under Maintenance,8,Highway,Low,1,High
+44.014561877819304,Sunny,Icy,21,Highway,High,1,Medium
+27.58633281086639,Sunny,Dry,23,Highway,Low,0,Medium
+32.88797219106492,Sunny,Under Maintenance,16,Urban,High,1,Low
+32.80458389577724,Rainy,Under Maintenance,4,Rural,High,1,Low
+35.19026935122943,Sunny,Icy,11,Urban,Medium,0,Low
+33.882717264941014,Rainy,Under Maintenance,0,Urban,Low,1,Low
+84.08747448032146,Sunny,Under Maintenance,9,Highway,High,1,High
+38.18800843991448,Rainy,Dry,10,Rural,Low,0,Low
+54.56672833238632,Snowy,Dry,15,Urban,Medium,0,Medium
+109.67884099060119,Foggy,Dry,13,Highway,Medium,1,High
+67.39616402628724,Snowy,Wet,7,Highway,Low,1,High
+86.75577385210272,Snowy,Wet,23,Rural,Low,1,Medium
+37.231987120162984,Sunny,Dry,16,Urban,High,0,Low
+39.22890188086708,Rainy,Dry,17,Urban,Medium,0,Low
+24.086861626647888,Foggy,Wet,11,Urban,Medium,0,Low
+36.893506307216455,Sunny,Icy,16,Highway,Medium,0,Medium
+47.859033903195865,Sunny,Under Maintenance,13,Rural,Low,0,Low
+37.70104842767468,Sunny,Under Maintenance,15,Rural,High,1,Low
+28.87025337570556,Snowy,Dry,13,Urban,Low,0,Low
+32.063587110060084,Rainy,Icy,8,Highway,Low,1,Medium
+66.07787680327257,Rainy,Wet,3,Urban,Low,1,Low
+40.63337184057925,Foggy,Dry,22,Rural,High,1,Low
+56.42698610480755,Rainy,Icy,10,Highway,Low,1,Medium
+70.34172708548569,Rainy,Icy,5,Urban,Medium,1,Low
+89.03948286293652,Sunny,Icy,14,Urban,Medium,1,Medium
+23.931213984109895,Sunny,Wet,4,Highway,Medium,0,Medium
+99.94103989090426,Snowy,Wet,10,Rural,High,1,Medium
+82.79003894909079,Sunny,Under Maintenance,17,Highway,Low,1,High
+28.17590319488719,Sunny,Under Maintenance,12,Urban,High,0,Low
+107.35786241067773,Sunny,Icy,10,Urban,Low,1,Medium
+112.08724005318132,Sunny,Icy,13,Urban,Medium,1,Medium
+26.107795985486376,Snowy,Wet,17,Urban,Low,0,Low
+47.687764814720374,Sunny,Under Maintenance,18,Rural,Low,0,Low
+100.62012797930613,Foggy,Icy,23,Rural,Low,1,Medium
+94.82596903836584,Foggy,Under Maintenance,14,Urban,High,1,Medium
+38.45210193563773,Foggy,Under Maintenance,8,Rural,Low,1,Low
+40.93493233367103,Foggy,Icy,7,Rural,Low,1,Low
+57.0472102791382,Sunny,Wet,19,Rural,Low,0,Medium
+68.45229851910213,Foggy,Icy,0,Urban,High,1,Medium
+81.8254771530296,Sunny,Icy,3,Highway,High,1,High
+56.891363956977244,Snowy,Under Maintenance,13,Highway,High,1,Medium
+66.25347161331479,Foggy,Icy,1,Highway,Low,1,High
+94.74709381337566,Rainy,Wet,15,Urban,Medium,1,Medium
+23.66832028905979,Foggy,Icy,2,Rural,Medium,0,Low
+45.24369443440207,Foggy,Wet,7,Rural,Medium,1,Low
+91.33495858845524,Sunny,Wet,5,Urban,Low,0,Medium
+109.52068376871993,Foggy,Under Maintenance,15,Urban,Medium,1,Medium
+71.16774421156661,Rainy,Dry,23,Highway,Medium,0,High
+73.21134852653157,Sunny,Dry,15,Highway,Medium,0,High
+30.717201133977603,Sunny,Under Maintenance,6,Urban,Low,0,Low
+64.74123668234546,Snowy,Icy,12,Highway,Medium,1,Medium
+73.2617266455023,Snowy,Under Maintenance,12,Rural,Medium,1,Low
+44.247050363472965,Foggy,Wet,4,Urban,Low,1,Low
+46.924323094938096,Snowy,Dry,19,Urban,High,1,Medium
+57.728416310462265,Snowy,Under Maintenance,21,Rural,Medium,1,Medium
+22.007119777772637,Snowy,Icy,17,Rural,High,1,Low
+52.20791655831783,Sunny,Under Maintenance,14,Rural,Medium,0,Low
+41.14480069965447,Sunny,Dry,17,Highway,Low,0,Medium
+52.74973521779147,Sunny,Under Maintenance,1,Urban,High,1,Medium
+31.97621318192512,Snowy,Under Maintenance,9,Highway,High,1,Medium
+109.0527280739895,Sunny,Dry,22,Rural,High,1,Medium
+79.35924535540487,Snowy,Wet,12,Highway,High,1,High
+87.91023191444896,Sunny,Wet,17,Rural,Medium,0,Medium
+98.91712386073382,Sunny,Dry,14,Highway,Medium,0,High
+69.84421989290573,Rainy,Under Maintenance,11,Highway,High,1,High
+28.69202880874237,Foggy,Dry,14,Rural,Medium,0,Low
+73.71065418185478,Snowy,Wet,12,Highway,High,1,High
+78.68411180208791,Rainy,Icy,17,Urban,High,1,Medium
+94.54394741843299,Sunny,Under Maintenance,14,Highway,Low,1,High
+63.16595462296794,Snowy,Wet,22,Highway,High,1,High
+32.75803027955638,Sunny,Under Maintenance,10,Urban,Medium,0,Low
+48.37759057987245,Foggy,Dry,18,Rural,High,1,Low
+56.30822963986351,Rainy,Icy,2,Urban,Low,1,Low
+84.59172413316013,Foggy,Dry,6,Highway,Medium,0,High
+77.07783046689119,Rainy,Icy,20,Rural,Low,1,Medium
+55.60967258978462,Sunny,Under Maintenance,13,Highway,Low,0,High
+118.65152487929797,Foggy,Under Maintenance,13,Highway,High,1,High
+80.57748193568872,Foggy,Dry,21,Urban,Low,0,Medium
+43.722679173599445,Sunny,Icy,12,Urban,Low,0,Low
+30.178247262040372,Foggy,Icy,11,Rural,Medium,1,Low
+35.2859139184332,Snowy,Under Maintenance,23,Rural,Low,1,Low
+44.59577283845081,Rainy,Dry,8,Rural,High,0,Low
+36.06813732595557,Rainy,Icy,0,Highway,High,1,Medium
+38.656702405130574,Rainy,Under Maintenance,18,Urban,High,1,Low
+48.50951686938471,Snowy,Wet,10,Urban,Low,1,Low
+37.33735952947548,Rainy,Dry,22,Urban,Medium,0,Low
+109.67654246264252,Sunny,Wet,21,Rural,High,1,Medium
+28.02337456616422,Foggy,Dry,22,Urban,Low,0,Low
+72.45113895702546,Snowy,Under Maintenance,23,Urban,High,1,Medium
+61.03968269896615,Rainy,Icy,21,Urban,High,1,Low
+118.23786169086064,Sunny,Icy,18,Rural,Medium,1,High
+31.203890216805235,Foggy,Icy,17,Urban,High,1,Low
+59.785559904574164,Foggy,Dry,11,Rural,Medium,0,Low
+116.94704332753689,Snowy,Under Maintenance,22,Urban,Low,1,Medium
+106.55071258939803,Snowy,Wet,0,Urban,High,1,Medium
+101.707207094928,Snowy,Under Maintenance,18,Urban,Low,1,Medium
+45.79028270449398,Sunny,Wet,19,Rural,Low,0,Low
+37.08875873900658,Sunny,Dry,16,Rural,Low,0,Medium
+86.8643219924431,Snowy,Dry,4,Urban,High,1,Medium
+112.93759891275857,Rainy,Wet,2,Highway,Medium,1,High
+75.67628930139298,Foggy,Wet,1,Rural,High,1,Low
+77.16126894698999,Foggy,Wet,2,Rural,Low,1,Medium
+47.997909366028416,Sunny,Under Maintenance,7,Urban,Medium,0,Low
+96.94929331919369,Foggy,Wet,15,Highway,Low,1,High
+38.704374855752334,Rainy,Dry,5,Urban,Medium,0,Low
+52.367923640424365,Foggy,Dry,12,Rural,High,1,Low
+62.54364386164168,Sunny,Icy,22,Rural,Medium,0,Medium
+70.7610378684455,Sunny,Wet,21,Urban,High,1,Medium
+44.24097324150802,Rainy,Under Maintenance,21,Urban,Low,1,Low
+31.483682473920354,Rainy,Under Maintenance,15,Highway,Medium,1,Medium
+81.06200424416326,Foggy,Under Maintenance,15,Highway,Low,1,High
+48.86305532402558,Foggy,Icy,2,Rural,Medium,1,Low
+78.12382214226122,Sunny,Dry,12,Highway,High,0,High
+35.43627152742023,Rainy,Under Maintenance,13,Highway,Medium,0,Medium
+68.11401018548175,Rainy,Dry,7,Rural,Medium,0,Medium
+73.25894325515858,Rainy,Icy,11,Rural,High,1,Medium
+25.18235368224269,Foggy,Wet,22,Rural,High,1,Low
+53.660427819392055,Rainy,Wet,22,Rural,High,1,Low
+33.44146769389742,Sunny,Wet,21,Urban,Medium,0,Low
+26.337497047276774,Sunny,Under Maintenance,20,Rural,Low,0,Low
+118.99602323899452,Foggy,Wet,7,Rural,Medium,1,Medium
+52.235384497472296,Snowy,Under Maintenance,20,Rural,Medium,1,Medium
+100.98744458546349,Foggy,Icy,8,Highway,Low,1,High
+45.46406547637638,Snowy,Icy,0,Rural,High,1,Low
+88.15027222239293,Rainy,Under Maintenance,5,Urban,Medium,1,Medium
+96.02278598896865,Foggy,Dry,22,Urban,Low,1,Low
+79.56387406078443,Sunny,Wet,18,Rural,High,1,Medium
+67.15761885501584,Rainy,Wet,22,Urban,High,1,Low
+61.18409141472685,Sunny,Wet,10,Highway,Medium,0,High
+54.88682665429953,Rainy,Under Maintenance,10,Rural,High,1,Low
+112.95291442478259,Foggy,Icy,22,Urban,High,1,Medium
+103.06194077877291,Snowy,Wet,12,Urban,Low,1,Medium
+116.50269106665125,Rainy,Icy,10,Rural,Low,1,High
+32.42972234855447,Snowy,Wet,17,Urban,High,1,Low
+93.08674752036443,Rainy,Wet,22,Rural,Low,1,Medium
+113.83404568210378,Sunny,Under Maintenance,14,Urban,High,1,Medium
+38.12330661656601,Sunny,Dry,0,Highway,Medium,0,High
+26.64962673667775,Rainy,Under Maintenance,20,Urban,Low,1,Low
+94.11206492900591,Snowy,Wet,6,Urban,High,1,Medium
+77.4473113179912,Foggy,Wet,22,Rural,High,1,Low
+104.1828776758272,Foggy,Dry,12,Urban,Low,1,High
+33.97723766262895,Sunny,Icy,11,Rural,Low,0,Low
+99.52673118598902,Foggy,Icy,17,Highway,Medium,1,High
+40.162732004774455,Sunny,Wet,23,Rural,High,1,Low
+36.36559428657045,Foggy,Icy,18,Rural,Medium,0,Low
+36.42657979309929,Rainy,Wet,14,Urban,Medium,0,Medium
+101.45747202313821,Sunny,Dry,7,Highway,Medium,0,High
+86.51972206962002,Sunny,Dry,18,Rural,Low,0,Low
+72.30654247691193,Rainy,Wet,9,Urban,Medium,1,Low
+55.88304841235025,Sunny,Dry,6,Urban,Low,0,Medium
+107.72005408131082,Foggy,Under Maintenance,17,Rural,Low,1,Medium
+59.244510742263536,Foggy,Under Maintenance,15,Urban,Medium,1,Low
+101.65994394715771,Sunny,Dry,19,Rural,Medium,0,Medium
+63.91349085702184,Foggy,Wet,5,Rural,High,1,Low
+57.69444294249076,Snowy,Wet,8,Rural,Medium,1,Low
+66.26797856696064,Sunny,Dry,20,Highway,High,0,High
+50.13778741641421,Rainy,Icy,12,Rural,Medium,1,Low
+94.76093801762511,Snowy,Under Maintenance,20,Urban,Medium,1,Medium
+70.27203900924792,Sunny,Icy,7,Highway,Medium,0,High
+43.22126951468173,Rainy,Wet,15,Urban,Medium,1,Low
+109.95745732745685,Foggy,Wet,12,Highway,High,1,High
+58.38912213732114,Rainy,Icy,12,Highway,High,1,High
+74.35528611139887,Snowy,Dry,16,Highway,Medium,0,High
+110.6472110964547,Foggy,Icy,22,Highway,Medium,1,High
+82.42379959139922,Sunny,Icy,19,Urban,High,1,Medium
+31.68980407083641,Foggy,Under Maintenance,4,Rural,Low,1,Low
+113.98321236134751,Sunny,Under Maintenance,21,Urban,Low,1,Medium
+82.77080530714179,Sunny,Icy,20,Rural,Low,0,Medium
+53.49056146570861,Rainy,Icy,16,Urban,High,1,Low
+33.927207266338726,Rainy,Wet,8,Highway,High,1,Medium
+99.4025189270296,Rainy,Under Maintenance,1,Highway,Low,1,High
+82.00727559285136,Snowy,Under Maintenance,17,Rural,Low,1,Medium
+73.34610919763216,Snowy,Wet,8,Rural,Medium,1,Low
+109.38925830509577,Rainy,Dry,5,Urban,High,1,Medium
+98.85972112245308,Snowy,Under Maintenance,10,Rural,High,1,Medium
+35.167487973275115,Foggy,Under Maintenance,5,Urban,Low,1,Low
+51.17220677955483,Foggy,Dry,5,Rural,Low,0,Low
+44.84891398144657,Snowy,Under Maintenance,12,Rural,High,1,Low
+94.3946292572677,Snowy,Under Maintenance,10,Rural,Medium,1,Medium
+23.353243473577937,Foggy,Dry,13,Highway,Low,0,Medium
+76.98896848713164,Sunny,Dry,1,Highway,High,1,High
+96.24586857406905,Foggy,Icy,7,Urban,High,1,Medium
+107.67656367617495,Foggy,Wet,2,Rural,Medium,1,Medium
+54.20817487159075,Snowy,Wet,22,Urban,Medium,1,Low
+102.12573046720128,Foggy,Dry,20,Rural,Low,1,Medium
+31.063173695520724,Snowy,Dry,2,Highway,Low,0,Medium
+104.64522917345182,Snowy,Under Maintenance,0,Highway,Low,1,High
+32.74886623319824,Rainy,Icy,23,Rural,High,1,Low
+59.72872905603673,Foggy,Icy,18,Rural,Low,1,Low
+99.72953657795536,Sunny,Dry,17,Highway,High,1,High
+34.99174273487738,Rainy,Under Maintenance,16,Highway,Low,1,Medium
+42.92513952326415,Snowy,Under Maintenance,19,Urban,Medium,0,Low
+92.22525683930662,Snowy,Wet,23,Highway,Medium,1,High
+92.00365365460743,Sunny,Wet,12,Rural,High,1,Medium
+84.11476328852973,Snowy,Under Maintenance,2,Urban,Medium,1,Low
+89.39484444671,Foggy,Wet,0,Rural,High,1,Medium
+74.27244433475963,Rainy,Dry,3,Urban,High,1,Medium
+45.179905890695274,Snowy,Under Maintenance,12,Rural,Medium,1,Low
+54.56959935039195,Snowy,Wet,16,Highway,High,1,Medium
+38.15977168014257,Sunny,Icy,10,Rural,Medium,0,Low
+110.84505613336283,Foggy,Under Maintenance,1,Urban,Low,1,Medium
+78.33917947661205,Snowy,Under Maintenance,15,Rural,Low,1,Medium
+60.08514167636399,Sunny,Icy,1,Urban,Medium,0,Low
+66.20058036441327,Snowy,Dry,18,Rural,Medium,0,Medium
+114.72833396118153,Sunny,Icy,22,Highway,Medium,0,High
+35.33514031160802,Sunny,Under Maintenance,18,Highway,Medium,0,Medium
+78.62298320167972,Foggy,Dry,15,Rural,Low,0,Medium
+70.5888678884466,Snowy,Wet,21,Rural,High,1,Low
+81.14542354346477,Foggy,Wet,18,Rural,High,1,Low
+21.81101838208405,Sunny,Wet,8,Urban,Low,0,Low
+107.21239089441515,Rainy,Under Maintenance,0,Rural,High,1,Medium
+113.21182824836124,Snowy,Icy,9,Rural,Low,1,Medium
+76.51331835892088,Rainy,Dry,18,Urban,High,1,Medium
+89.66508238768922,Snowy,Wet,0,Highway,Medium,1,High
+112.24993811772957,Foggy,Dry,1,Rural,Medium,1,Medium
+90.72386343133986,Foggy,Under Maintenance,15,Rural,Medium,1,Medium
+35.25390429142614,Foggy,Wet,11,Highway,Low,1,Medium
+77.62883601668132,Foggy,Under Maintenance,7,Highway,Low,1,High
+80.6715046382856,Foggy,Icy,22,Urban,High,1,Medium
+62.4130671302386,Rainy,Under Maintenance,17,Rural,High,1,Low
+93.64442356247228,Foggy,Under Maintenance,1,Rural,High,1,Low
+113.43670147690149,Sunny,Icy,12,Urban,Low,1,Medium
+112.55685129067763,Sunny,Dry,5,Highway,High,1,High
+65.08393714041321,Rainy,Icy,20,Urban,Medium,1,Low
+31.323804584075525,Snowy,Icy,5,Highway,High,1,Medium
+118.48411989623345,Sunny,Under Maintenance,8,Urban,Medium,1,High
+103.88980864459342,Snowy,Dry,15,Highway,Low,0,High
+32.46626812032669,Rainy,Wet,10,Urban,Medium,1,Low
+112.08418826173724,Snowy,Icy,6,Highway,Medium,1,High
+106.98963620621282,Snowy,Dry,9,Highway,Medium,1,High
+71.88380571260721,Snowy,Icy,9,Highway,Low,1,High
+79.12754357449293,Snowy,Icy,19,Highway,Low,1,High
+59.90027038701302,Rainy,Icy,17,Highway,Low,1,Medium
+25.47616388220313,Sunny,Icy,23,Rural,Low,0,Low
+53.519724164590095,Foggy,Under Maintenance,19,Highway,High,1,Medium
+100.28534485980114,Snowy,Dry,8,Rural,Low,1,Medium
+20.463202300460285,Sunny,Dry,14,Highway,Medium,0,Medium
+53.34991716911442,Sunny,Dry,3,Rural,Low,0,Medium
+59.81686935909433,Rainy,Icy,7,Rural,High,1,Low
+73.7395602937923,Sunny,Under Maintenance,8,Urban,High,1,Medium
+111.98556164127605,Rainy,Icy,12,Highway,High,1,High
+54.634599436596126,Snowy,Icy,8,Urban,Medium,1,Low
+54.69532018962277,Snowy,Dry,3,Urban,Low,0,Medium
+93.75012481097484,Foggy,Icy,16,Highway,Low,1,High
+65.22179408898072,Foggy,Wet,15,Urban,Low,1,Medium
+42.4604822939982,Foggy,Icy,14,Highway,Medium,0,Medium
+65.24395161326933,Sunny,Wet,2,Urban,Medium,0,Medium
+34.085702037979985,Snowy,Icy,19,Highway,High,1,High
+37.63869865062233,Rainy,Under Maintenance,4,Highway,High,1,Low
+69.83677727394797,Foggy,Under Maintenance,22,Highway,Low,1,High
+61.89254495045479,Rainy,Dry,4,Rural,Medium,0,Low
+111.48459010681,Rainy,Icy,19,Urban,Medium,1,Medium
+56.23938991166331,Foggy,Wet,14,Rural,Low,1,Medium
+78.05883502780435,Snowy,Wet,17,Urban,Low,1,Low
+83.22642879195304,Foggy,Icy,14,Urban,High,1,Low
+21.309445658833365,Rainy,Wet,1,Urban,High,1,Low
+86.35373720167107,Foggy,Under Maintenance,12,Rural,High,1,Medium
+37.80359668697514,Rainy,Wet,3,Urban,Low,1,Low
+116.10703174694551,Rainy,Dry,9,Rural,Low,1,Medium
+34.866272775311295,Foggy,Under Maintenance,12,Highway,High,1,Medium
+61.462412372702374,Sunny,Under Maintenance,9,Urban,High,1,Low
+28.534966807864386,Foggy,Under Maintenance,8,Urban,Medium,1,Low
+119.68742518459473,Sunny,Icy,7,Highway,Medium,1,High
+70.21950103312426,Rainy,Icy,2,Highway,High,1,High
+79.53850173200438,Rainy,Under Maintenance,15,Urban,High,1,Medium
+26.70764773884275,Sunny,Icy,13,Highway,Medium,0,Medium
+94.99604703991778,Rainy,Wet,8,Rural,High,1,Medium
+40.99055930955858,Sunny,Icy,20,Rural,Medium,0,Low
+109.80542894407138,Sunny,Icy,10,Urban,Medium,1,Medium
+40.51396404820072,Rainy,Under Maintenance,2,Rural,Medium,1,Low
+39.068772066366655,Snowy,Dry,4,Rural,Low,0,Low
+23.65496678480949,Sunny,Dry,9,Urban,Low,0,Low
+67.20669451099992,Foggy,Dry,12,Highway,High,1,High
+76.48411332626165,Foggy,Wet,3,Urban,Medium,1,Medium
+26.57086394283524,Rainy,Icy,23,Rural,Low,0,Low
+97.55276166950105,Snowy,Dry,12,Urban,High,1,Medium
+65.32888347480275,Rainy,Under Maintenance,11,Urban,High,1,Medium
+72.439026932758,Snowy,Dry,4,Rural,High,1,Low
+64.07627469382282,Sunny,Dry,9,Rural,High,0,Low
+60.0763060875326,Sunny,Icy,23,Urban,High,1,Low
+75.96403313082179,Sunny,Icy,8,Rural,Medium,1,Medium
+35.524024593071246,Sunny,Icy,19,Rural,High,1,Medium
+38.19281304952711,Foggy,Wet,6,Rural,Medium,1,Low
+106.17856210135173,Foggy,Wet,1,Rural,Low,1,Medium
+114.61154621336327,Rainy,Dry,21,Rural,High,1,Medium
+57.330931627975296,Snowy,Icy,23,Rural,Low,1,Medium
+47.074467314355374,Sunny,Dry,22,Highway,Medium,0,High
+84.39995432390158,Sunny,Under Maintenance,6,Urban,Medium,1,Low
+60.87341710980964,Snowy,Under Maintenance,7,Rural,Low,1,Low
+22.538635566034486,Snowy,Icy,6,Urban,High,1,Low
+35.61525973661904,Rainy,Icy,20,Highway,High,1,Medium
+91.59722288473975,Snowy,Under Maintenance,22,Rural,Low,1,Low
+85.89239419101514,Sunny,Icy,13,Urban,Low,0,Medium
+22.709599250348347,Sunny,Wet,18,Rural,Low,0,Low
+42.19721619329495,Sunny,Wet,4,Rural,High,1,Low
+43.10747965880714,Sunny,Icy,22,Rural,High,1,Low
+87.18927435987284,Sunny,Under Maintenance,17,Rural,High,1,Medium
+21.971053775436417,Rainy,Dry,19,Rural,Low,0,Low
+30.410858198457383,Sunny,Icy,11,Rural,High,0,Low
+99.99160853731894,Rainy,Icy,22,Rural,Medium,1,Medium
+37.85446620543336,Sunny,Dry,16,Highway,Low,0,Medium
+85.27461078518748,Foggy,Icy,12,Highway,High,1,High
+43.81827810467265,Foggy,Dry,1,Rural,Low,0,Low
+29.944139275934518,Foggy,Under Maintenance,12,Rural,Medium,1,Low
+44.317219099945405,Foggy,Wet,6,Highway,Medium,1,High
+92.22669318556592,Rainy,Under Maintenance,9,Highway,Low,1,High
+105.56964681062857,Rainy,Wet,22,Highway,Low,1,High
+103.02198645669915,Snowy,Dry,5,Rural,Medium,1,Medium
+59.71835296184548,Sunny,Wet,2,Urban,Low,0,Low
+86.80851365706462,Foggy,Under Maintenance,2,Urban,Medium,1,Medium
+40.4984295415821,Rainy,Wet,17,Urban,Medium,0,Medium
+49.31477302610133,Sunny,Dry,10,Urban,High,0,Medium
+109.63358185211197,Sunny,Wet,21,Rural,Low,1,Medium
+21.300192351073605,Rainy,Icy,19,Urban,Low,0,Low
+28.550853085446807,Foggy,Under Maintenance,4,Highway,High,1,Low
+40.78862551460273,Snowy,Icy,18,Highway,Medium,1,High
+22.65322038738197,Sunny,Dry,21,Urban,Low,0,Low
+38.14354350897973,Snowy,Wet,18,Highway,High,1,Medium
+78.30415609696922,Foggy,Icy,14,Rural,High,1,Low
+62.1424550592498,Foggy,Icy,15,Urban,Low,1,Low
+109.26717110769748,Snowy,Wet,23,Urban,High,1,Medium
+101.7443561738441,Foggy,Wet,8,Rural,Medium,1,Medium
+54.1817351697876,Sunny,Under Maintenance,3,Highway,High,0,Medium
+45.94234334312925,Snowy,Icy,14,Rural,Medium,1,Low
+57.96924081672669,Foggy,Icy,11,Rural,Medium,1,Low
+79.02949425148077,Snowy,Dry,22,Highway,Low,1,High
+46.80636408228763,Sunny,Under Maintenance,2,Rural,High,1,Low
+82.41489078491341,Foggy,Dry,22,Highway,Medium,0,High
+60.941165219124045,Sunny,Icy,13,Highway,Medium,0,Medium
+75.20471808519802,Foggy,Dry,16,Rural,High,1,Low
+63.61265291353167,Rainy,Icy,18,Highway,Medium,1,High
+49.44657595419177,Foggy,Icy,5,Rural,High,1,Low
+114.84533069621567,Snowy,Dry,3,Highway,Low,1,High
+96.36057941597608,Foggy,Dry,6,Urban,Medium,0,Low
+34.011317576645254,Sunny,Wet,18,Highway,Medium,0,High
+106.84679758979128,Sunny,Wet,16,Highway,High,1,High
+68.74311982495136,Foggy,Wet,15,Rural,High,1,Medium
+109.45522268940914,Snowy,Icy,14,Highway,High,1,High
+99.98552559473153,Rainy,Dry,21,Urban,High,1,Medium
+62.52135044692334,Snowy,Under Maintenance,7,Urban,Medium,1,Medium
+22.24693083201174,Rainy,Icy,18,Highway,Low,0,Medium
+46.867735938494604,Sunny,Under Maintenance,7,Highway,Low,0,Medium
+74.16342146608669,Snowy,Dry,17,Urban,Low,0,Medium
+83.34782198261473,Rainy,Icy,15,Rural,Low,1,Medium
+45.78876854332023,Foggy,Under Maintenance,19,Urban,High,1,Medium
+33.93560740728241,Sunny,Under Maintenance,18,Urban,Medium,0,Low
+103.4930236799299,Foggy,Wet,9,Highway,Medium,1,High
+118.44021807035521,Sunny,Wet,16,Highway,Medium,1,High
+72.56901823026858,Snowy,Wet,12,Urban,High,1,Medium
+37.16792858483035,Snowy,Icy,12,Rural,Medium,1,Medium
+47.2307326519369,Sunny,Dry,6,Urban,High,0,Low
+21.839067654746675,Sunny,Dry,9,Urban,Medium,0,Low
+111.4298806560499,Sunny,Wet,1,Rural,Low,1,Medium
+31.775108289014113,Snowy,Wet,3,Urban,High,1,Low
+77.65164755142536,Rainy,Wet,5,Urban,Medium,1,Medium
+47.4055220687206,Foggy,Under Maintenance,23,Highway,Low,1,Medium
+75.41780025157934,Foggy,Wet,17,Rural,Low,1,Medium
+85.14203883518643,Snowy,Under Maintenance,22,Highway,Low,1,High
+102.97418037072016,Foggy,Dry,5,Highway,High,1,High
+40.64212717606032,Sunny,Icy,22,Rural,High,1,Medium
+21.09958286584805,Rainy,Icy,16,Rural,Medium,1,Low
+33.68856300688073,Foggy,Icy,13,Urban,Low,1,Low
+110.00186418481051,Rainy,Icy,23,Highway,Medium,1,High
+107.38900775625153,Sunny,Under Maintenance,10,Rural,Medium,1,High
+79.74131021703083,Foggy,Under Maintenance,18,Highway,Low,1,High
+80.05168604336534,Snowy,Wet,1,Highway,Medium,1,Medium
+86.50366745462554,Rainy,Under Maintenance,2,Rural,High,1,Medium
+37.53712786234496,Sunny,Wet,10,Urban,Medium,0,Medium
+111.44119459249598,Rainy,Wet,5,Highway,Low,1,High
+61.87705248920731,Foggy,Icy,13,Rural,High,1,Medium
+58.31385282494975,Foggy,Under Maintenance,18,Urban,High,1,Low
+71.89177052828376,Snowy,Under Maintenance,15,Highway,Medium,1,High
+24.696596677505504,Sunny,Wet,20,Rural,Medium,0,Low
+36.62833687560794,Sunny,Wet,21,Highway,High,1,Medium
+93.80336164263704,Snowy,Dry,23,Rural,Medium,1,Medium
+28.279866792512646,Snowy,Dry,6,Rural,Low,0,Low
+80.31521094663881,Sunny,Wet,7,Highway,Medium,0,High
+44.534910968132095,Rainy,Dry,18,Highway,Medium,0,Medium
+58.929561404197656,Rainy,Dry,19,Rural,High,1,Medium
+48.86937367706999,Snowy,Wet,15,Urban,Medium,1,Medium
+55.567271646494916,Rainy,Wet,21,Highway,Medium,1,High
+91.90459051842456,Sunny,Under Maintenance,6,Rural,Medium,0,Medium
+49.7121715623175,Foggy,Wet,8,Rural,Low,1,Low
+76.64046402968972,Foggy,Wet,12,Urban,Medium,1,Medium
+67.60504021990997,Rainy,Icy,0,Urban,Low,1,Low
+86.36711653626482,Snowy,Under Maintenance,7,Urban,Low,1,Medium
+113.6829739324758,Snowy,Under Maintenance,23,Highway,Low,1,High
+93.25720972102503,Snowy,Under Maintenance,21,Rural,Low,1,Medium
+41.494037859075675,Snowy,Icy,3,Rural,High,1,Low
+23.118313506128466,Snowy,Wet,2,Rural,Low,0,Low
+46.22640442998251,Rainy,Under Maintenance,2,Urban,Medium,1,Low
+79.50779307002549,Foggy,Under Maintenance,21,Rural,Low,1,Low
+25.142581348425033,Foggy,Dry,12,Highway,Medium,0,Medium
+69.63662472012363,Rainy,Under Maintenance,7,Urban,Low,1,Medium
+79.68428489168892,Snowy,Wet,6,Urban,High,1,Medium
+53.424389081696084,Rainy,Wet,0,Urban,Low,1,Medium
+97.09122037458219,Foggy,Dry,15,Urban,Low,1,Medium
+30.65982531337718,Sunny,Under Maintenance,5,Highway,High,1,Medium
+27.513778173580874,Rainy,Under Maintenance,6,Rural,Low,1,Medium
+92.81887562036033,Snowy,Under Maintenance,11,Highway,Medium,1,High
+69.54913162061985,Foggy,Icy,22,Rural,Low,1,Medium
+88.84023964277361,Foggy,Under Maintenance,8,Highway,Low,1,High
+63.48273386037462,Foggy,Wet,10,Urban,Low,1,Low
+44.64020332391068,Foggy,Wet,9,Urban,High,1,Low
+101.91023176741997,Snowy,Icy,20,Highway,Low,1,High
+99.94158789689793,Sunny,Icy,0,Highway,Low,1,High
+89.46964708544267,Foggy,Under Maintenance,17,Rural,Medium,1,Medium
+47.21451372299627,Rainy,Dry,3,Highway,Low,0,High
+79.0230666869087,Sunny,Icy,4,Highway,Low,0,High
+56.09738969400268,Foggy,Icy,8,Rural,Low,1,Low
+29.158207332663416,Sunny,Under Maintenance,16,Rural,Low,0,Low
+111.73135754622427,Rainy,Under Maintenance,2,Rural,Medium,1,High
+33.68186309189614,Foggy,Icy,15,Highway,Medium,1,Medium
+115.02373538208025,Rainy,Dry,4,Rural,High,1,Medium
+64.60057729579557,Snowy,Icy,15,Urban,Low,1,Low
+38.513292883861965,Foggy,Under Maintenance,2,Urban,High,1,Low
+74.1900947378358,Foggy,Under Maintenance,19,Urban,High,1,Medium
+107.29458358764083,Foggy,Icy,14,Highway,Low,1,High
+93.22248864095612,Foggy,Dry,2,Urban,Medium,0,Medium
+100.65611478614497,Snowy,Icy,19,Highway,Medium,1,High
+85.87833667107174,Foggy,Icy,13,Highway,Low,1,High
+89.22765645178525,Sunny,Under Maintenance,15,Urban,Low,0,Medium
+104.91956515653193,Foggy,Dry,16,Rural,Medium,1,Medium
+44.966800885918595,Snowy,Wet,23,Highway,Low,1,Medium
+68.94249636431405,Foggy,Dry,19,Urban,Low,0,Low
+42.120944181960226,Sunny,Icy,22,Highway,Low,0,High
+118.7668007996647,Snowy,Icy,17,Rural,Medium,1,Medium
+114.40593396866133,Snowy,Icy,17,Rural,High,1,Medium
+23.942681136850588,Sunny,Dry,21,Urban,High,0,Low
+90.55751725156884,Sunny,Under Maintenance,13,Highway,Low,1,High
+112.52483174156659,Sunny,Icy,17,Highway,Medium,1,High
+38.057534512733355,Sunny,Icy,14,Highway,Low,0,Medium
+76.79452305526294,Sunny,Dry,14,Highway,Medium,0,High
+111.54882975880419,Snowy,Wet,5,Urban,Low,1,Medium
+23.394597858579885,Snowy,Wet,14,Rural,Medium,1,Low
+89.742026724684,Foggy,Under Maintenance,17,Urban,Medium,1,Medium
+49.734900737255074,Foggy,Under Maintenance,3,Highway,High,1,Medium
+112.43961953765304,Rainy,Icy,22,Highway,Low,1,High
+117.10582451653677,Foggy,Dry,7,Rural,High,1,Medium
+114.42664891134339,Foggy,Icy,14,Highway,High,1,High
+67.42142166574638,Sunny,Under Maintenance,2,Urban,Medium,0,Medium
+106.20426509893134,Sunny,Dry,14,Urban,Low,0,Medium
+104.45493985350704,Foggy,Dry,12,Rural,Medium,1,Medium
+51.91004732432556,Rainy,Under Maintenance,8,Urban,Medium,1,Low
+102.89154741506773,Sunny,Wet,1,Urban,Medium,1,Medium
+23.700763471549262,Foggy,Wet,23,Urban,Low,0,Low
+79.6269878482053,Foggy,Dry,7,Urban,Low,0,Medium
+43.000883728770305,Snowy,Icy,19,Highway,Medium,1,Medium
+32.05668857772788,Rainy,Wet,16,Urban,Low,1,Low
+27.695320162920915,Snowy,Icy,12,Rural,Medium,0,Low
+89.62887758781397,Rainy,Wet,0,Rural,Low,1,Low
+53.98749637680661,Sunny,Wet,1,Urban,Low,0,Low
+92.47667715287615,Rainy,Icy,14,Rural,High,1,Medium
+26.535634079894237,Foggy,Under Maintenance,11,Urban,Medium,1,Low
+51.52903378306104,Foggy,Wet,13,Rural,High,1,Low
+73.94912923753373,Rainy,Wet,1,Rural,High,1,Medium
+99.07231648389636,Rainy,Icy,17,Urban,Medium,1,High
+51.87525029320699,Rainy,Under Maintenance,21,Urban,Medium,1,Low
+82.58913764370091,Snowy,Wet,6,Highway,Low,1,High
+108.5977748236187,Rainy,Wet,22,Urban,Medium,1,High
+81.58631881823047,Sunny,Under Maintenance,5,Urban,High,1,Medium
+43.29594747536338,Snowy,Wet,13,Highway,High,1,High
+22.4400781556538,Snowy,Under Maintenance,7,Urban,Medium,0,Low
+107.00988739009298,Rainy,Under Maintenance,21,Urban,High,1,Medium
+22.126941085038712,Sunny,Icy,1,Highway,Low,0,High
+107.47016726841994,Snowy,Dry,16,Urban,High,1,Low
+72.8937134027212,Foggy,Under Maintenance,4,Urban,Low,1,Low
+113.90676985128962,Snowy,Icy,13,Highway,High,1,High
+99.87832357736654,Rainy,Dry,23,Highway,Low,0,High
+119.79341105333374,Sunny,Wet,19,Rural,Low,1,Medium
+55.071181545171015,Rainy,Dry,20,Urban,Medium,0,Low
+96.71882889311269,Foggy,Under Maintenance,20,Rural,Low,1,Medium
+60.193091360924214,Foggy,Under Maintenance,21,Rural,Medium,1,Low
+67.98756203039088,Foggy,Under Maintenance,2,Highway,High,1,High
+82.750546321837,Rainy,Under Maintenance,4,Urban,High,1,Medium
+107.36771141863387,Snowy,Under Maintenance,15,Urban,High,1,Medium
+118.40834691992951,Rainy,Icy,17,Highway,Low,1,High
+96.82734138645182,Sunny,Under Maintenance,16,Rural,High,1,Medium
+61.77667821673337,Snowy,Icy,10,Highway,High,1,High
+62.13570022770702,Foggy,Wet,16,Urban,Medium,1,Low
+93.75823015888915,Rainy,Under Maintenance,15,Highway,Medium,1,High
+43.87771457683023,Foggy,Under Maintenance,22,Urban,High,1,Low
+31.047411313139467,Foggy,Dry,1,Rural,High,0,Low
+55.462215764077655,Sunny,Wet,3,Urban,Low,0,Medium
+48.72389916540817,Snowy,Under Maintenance,20,Rural,Low,1,Low
+49.63081204559901,Sunny,Under Maintenance,6,Rural,High,1,Medium
+43.36077510499099,Sunny,Wet,1,Urban,Medium,0,Medium
+24.20931896363619,Sunny,Icy,5,Urban,High,1,Low
+21.787393473341382,Foggy,Under Maintenance,16,Rural,Low,0,Low
+118.77223897360315,Sunny,Dry,6,Highway,Medium,0,High
+62.77731337358623,Sunny,Under Maintenance,4,Urban,Medium,0,Low
+58.432664715968166,Snowy,Dry,4,Rural,Low,0,Low
+87.96472826930699,Snowy,Dry,19,Rural,High,1,Medium
+41.825388786506416,Sunny,Under Maintenance,15,Highway,High,1,High
+114.99611839502253,Snowy,Under Maintenance,18,Urban,High,1,Medium
+98.6345014415552,Snowy,Dry,8,Rural,Low,1,Medium
+28.941100231225953,Sunny,Wet,4,Highway,Medium,0,Medium
+61.75807757849284,Foggy,Wet,7,Rural,Low,1,Low
+107.91183075621647,Sunny,Under Maintenance,8,Urban,High,1,Medium
+114.47320222914102,Snowy,Icy,4,Highway,Low,1,High
+66.74015112498697,Foggy,Wet,9,Rural,Medium,1,Medium
+81.34113892107078,Rainy,Under Maintenance,1,Highway,Low,1,High
+36.70339460920752,Foggy,Wet,8,Urban,High,1,Low
+119.11686261369765,Snowy,Icy,10,Highway,Medium,1,High
+43.16717013834434,Foggy,Under Maintenance,3,Urban,Low,0,Low
+114.27317741351257,Sunny,Icy,21,Rural,Low,1,Medium
+84.96466489923685,Rainy,Under Maintenance,21,Urban,Medium,1,Medium
+80.77367948788591,Rainy,Icy,21,Rural,Medium,1,Low
+71.26885110165085,Rainy,Wet,1,Rural,High,1,Low
+43.066981171775865,Snowy,Wet,22,Urban,Medium,1,Low
+37.65280320055083,Snowy,Icy,5,Rural,High,1,Low
+42.048620907017536,Rainy,Icy,13,Highway,Low,1,High
+38.64382621442545,Foggy,Icy,0,Rural,High,1,Low
+97.95844735667534,Rainy,Under Maintenance,17,Urban,Low,1,Medium
+55.01252591667301,Foggy,Wet,6,Highway,Medium,1,High
+25.784267656339637,Foggy,Under Maintenance,0,Highway,Low,0,Low
+116.91026301408114,Snowy,Wet,0,Rural,Medium,1,Medium
+108.37858849634257,Foggy,Dry,0,Rural,Low,1,Medium
+112.77522831952129,Rainy,Under Maintenance,23,Urban,Low,1,High
+119.49078226464353,Snowy,Wet,3,Highway,Low,1,High
+37.389524921948734,Sunny,Wet,3,Urban,Low,0,Low
+59.62420189026587,Sunny,Under Maintenance,17,Rural,High,1,Low
+95.82384757040913,Snowy,Under Maintenance,10,Highway,Low,1,High
+89.60206180537922,Rainy,Wet,0,Urban,High,1,Medium
+35.389590633985506,Sunny,Under Maintenance,9,Urban,Medium,0,Low
+101.58331249906178,Sunny,Icy,8,Urban,Medium,1,Medium
+42.44405718366607,Foggy,Under Maintenance,22,Urban,High,1,Medium
+42.381761482262306,Foggy,Under Maintenance,3,Urban,Medium,0,Low
+73.69744228934135,Rainy,Under Maintenance,5,Highway,Medium,1,High
+79.29399348417031,Snowy,Wet,15,Urban,Low,1,Medium
+78.00862078378111,Rainy,Icy,1,Highway,Low,1,High
+29.148683739775485,Snowy,Dry,22,Urban,Low,0,Low
+107.74608626303804,Sunny,Dry,17,Rural,High,1,Medium
+46.560004258870606,Foggy,Icy,9,Rural,High,1,Low
+32.95149212828042,Rainy,Icy,23,Urban,Medium,0,Low
+108.87480798689772,Rainy,Icy,23,Rural,Low,1,Medium
+115.56514982297534,Snowy,Wet,16,Highway,High,1,High
+106.21276172654507,Snowy,Dry,12,Urban,High,1,Medium
+100.95160747248781,Rainy,Icy,23,Highway,Low,1,High
+85.52419806390218,Snowy,Wet,17,Urban,High,1,Medium
+75.08573706091393,Rainy,Dry,21,Rural,Low,0,Medium
+28.698675991141016,Rainy,Under Maintenance,12,Highway,Medium,0,Low
+60.845321307069874,Rainy,Wet,16,Rural,Medium,1,Medium
+57.2688517012314,Sunny,Dry,4,Rural,Medium,0,Low
+45.97537837603262,Snowy,Wet,10,Urban,Low,1,Medium
+92.3420113688585,Foggy,Dry,6,Highway,High,1,High
+69.58757350787708,Foggy,Dry,9,Rural,Medium,0,Low
+28.104621590764793,Snowy,Under Maintenance,16,Urban,Medium,1,Low
+42.01832019498113,Rainy,Wet,14,Urban,Medium,0,Low
+88.32587636595959,Foggy,Icy,17,Urban,High,1,Medium
+27.61308594903002,Foggy,Under Maintenance,22,Rural,High,1,Low
+105.12069140487687,Snowy,Under Maintenance,21,Urban,Low,1,Medium
+69.51465270139744,Foggy,Dry,18,Highway,Medium,0,High
+68.0586577326648,Rainy,Icy,1,Highway,High,1,High
+79.24077846595176,Snowy,Wet,3,Rural,Low,1,Medium
+102.46809659251491,Rainy,Icy,2,Highway,Medium,1,High
+54.780920790219305,Foggy,Icy,6,Urban,High,1,Low
+87.80161525590636,Foggy,Icy,23,Rural,High,1,Medium
+76.5731963995791,Rainy,Icy,17,Urban,Low,1,Low
+46.70282701694213,Sunny,Icy,9,Rural,Medium,0,Low
+107.8629986355158,Foggy,Dry,6,Rural,Medium,1,Medium
+99.74260216069281,Sunny,Dry,7,Urban,High,1,Medium
+85.84518346584255,Foggy,Under Maintenance,5,Highway,Medium,1,High
+105.05817290942419,Sunny,Dry,21,Highway,Low,0,High
+106.72942009598023,Sunny,Under Maintenance,0,Rural,High,1,Medium
+90.83629767150347,Sunny,Under Maintenance,3,Urban,High,1,Medium
+103.7013328363672,Rainy,Wet,13,Urban,Low,1,Medium
+89.74714616692836,Sunny,Icy,16,Rural,High,1,Medium
+88.01407717603004,Sunny,Dry,19,Highway,Medium,0,High
+81.86113782151844,Sunny,Wet,17,Urban,Medium,0,Medium
+95.27166395576413,Foggy,Dry,10,Highway,High,1,High
+35.86051052930737,Sunny,Under Maintenance,20,Highway,Low,0,High
+108.08707591989284,Foggy,Dry,13,Rural,Low,1,Medium
+107.1843527745232,Sunny,Icy,8,Rural,Medium,1,High
+22.924728303455915,Sunny,Under Maintenance,14,Highway,Low,0,Medium
+102.58167505647627,Rainy,Under Maintenance,11,Urban,High,1,Medium
+32.88698674734452,Foggy,Wet,9,Urban,High,1,Low
+53.51188542591419,Sunny,Icy,18,Rural,Medium,0,Low
+94.35082562916078,Foggy,Under Maintenance,23,Highway,Medium,1,High
+36.07598960483082,Foggy,Icy,18,Urban,Medium,1,Low
+101.79670241190622,Snowy,Dry,5,Urban,Low,0,Medium
+103.21341779577419,Rainy,Icy,19,Rural,High,1,Medium
+70.74677337608362,Rainy,Under Maintenance,23,Highway,High,1,Medium
+20.63858717168336,Rainy,Wet,5,Urban,High,1,Low
+48.70381331749128,Snowy,Under Maintenance,7,Rural,Medium,1,Low
+81.69269183757422,Snowy,Icy,0,Urban,High,1,Medium
+118.11861780274235,Rainy,Icy,21,Urban,Low,1,Medium
+83.18135270166684,Snowy,Under Maintenance,16,Urban,Low,1,Medium
+45.98035810641598,Snowy,Icy,16,Rural,High,1,Low
+83.40057030996113,Snowy,Dry,23,Highway,Medium,0,High
+73.99853797158555,Rainy,Under Maintenance,14,Rural,High,1,Low
+97.98453951511436,Rainy,Wet,6,Highway,Low,1,High
+30.69806388269584,Rainy,Under Maintenance,18,Urban,Low,1,Low
+96.1027902502028,Snowy,Dry,21,Highway,Low,0,High
+74.12665786761103,Rainy,Dry,22,Urban,High,1,Low
+116.29920038589947,Snowy,Dry,2,Urban,Low,1,High
+54.187216603868606,Sunny,Dry,21,Rural,Medium,0,Low
+83.26218931339481,Snowy,Dry,10,Urban,High,1,Medium
+113.20281055100175,Foggy,Wet,19,Rural,High,1,Medium
+30.250972799067924,Rainy,Icy,18,Highway,Low,0,Medium
+113.72284872364511,Rainy,Dry,8,Highway,Low,1,High
+88.78857223008133,Foggy,Dry,9,Urban,Medium,0,Medium
+26.78370591051719,Snowy,Under Maintenance,1,Rural,High,1,Low
+50.096356694681624,Sunny,Wet,0,Urban,Low,0,Medium
+90.81720886452815,Foggy,Wet,15,Rural,Medium,1,Medium
+26.73506014687717,Foggy,Icy,17,Rural,Low,0,Low
+78.21704601762733,Snowy,Wet,22,Rural,High,1,Medium
+54.588305695295674,Rainy,Under Maintenance,16,Highway,Low,1,Medium
+82.0915517767477,Snowy,Under Maintenance,5,Rural,High,1,Low
+24.574203381251287,Foggy,Icy,13,Highway,Low,0,Medium
+107.15368061523763,Foggy,Under Maintenance,22,Rural,High,1,Medium
+117.3488969177397,Rainy,Dry,14,Highway,Medium,1,High
+116.88778552856915,Rainy,Dry,13,Highway,High,1,High
+94.96518317429248,Rainy,Under Maintenance,23,Highway,Medium,1,High
+33.0086240130632,Snowy,Icy,21,Urban,High,1,Medium
+95.82631959290225,Rainy,Wet,2,Rural,Medium,1,High
+22.45869164588015,Foggy,Icy,23,Urban,Low,0,Low
+22.212355152899725,Foggy,Wet,22,Rural,High,1,Low
+52.36102191495412,Sunny,Under Maintenance,18,Rural,Low,0,Low
+68.86431904046657,Snowy,Under Maintenance,11,Urban,Medium,1,Medium
+97.04074178077931,Sunny,Dry,1,Highway,High,1,High
+88.32953766065052,Foggy,Wet,2,Rural,High,1,Medium
+64.59027063767483,Sunny,Icy,17,Highway,Low,0,High
+47.362666628166586,Foggy,Under Maintenance,0,Urban,High,1,Medium
+119.71245001577111,Sunny,Icy,19,Highway,High,1,High
+62.6181302235973,Rainy,Dry,20,Rural,Low,0,Low
+65.13870243296755,Sunny,Wet,5,Rural,High,1,Low
+36.36238211916692,Rainy,Wet,4,Rural,Low,0,Low
+99.48095487499293,Rainy,Under Maintenance,0,Urban,Low,1,Medium
+89.36822257814886,Snowy,Wet,18,Rural,Low,1,Medium
+42.07696127887604,Rainy,Under Maintenance,0,Urban,Low,1,Low
+28.23810456158427,Rainy,Dry,20,Highway,Low,0,Medium
+88.0499302074713,Sunny,Wet,20,Rural,Medium,0,Medium
+85.45112142811352,Foggy,Under Maintenance,15,Rural,Medium,1,Medium
+47.32595269982093,Snowy,Icy,11,Rural,Low,1,Medium
+115.08635622504103,Rainy,Under Maintenance,21,Highway,Medium,1,High
+35.10578917809002,Snowy,Wet,7,Rural,Medium,0,Low
+63.23348010426019,Sunny,Dry,15,Urban,High,0,Medium
+114.36159201675989,Rainy,Wet,0,Highway,Low,1,High
+61.97273169261223,Sunny,Wet,3,Highway,Medium,0,Medium
+83.85259476640856,Snowy,Under Maintenance,9,Highway,High,1,High
+59.75943979627943,Sunny,Icy,10,Highway,High,1,Medium
+47.421520234867,Snowy,Wet,16,Highway,Low,1,Medium
+118.39776479598282,Sunny,Icy,22,Urban,Low,1,High
+60.9334006315043,Snowy,Under Maintenance,6,Highway,High,1,Medium
+109.40992036791344,Foggy,Icy,11,Rural,Low,1,Medium
+42.99546058910862,Sunny,Under Maintenance,20,Highway,Low,0,Medium
+41.31047040250833,Sunny,Dry,6,Highway,High,0,Medium
+23.113408288451136,Foggy,Icy,11,Highway,High,1,Medium
+85.1666825375885,Foggy,Icy,14,Highway,Low,1,High
+56.852634372376116,Sunny,Dry,1,Highway,Medium,0,High
+106.4358249839637,Foggy,Icy,13,Urban,Low,1,Medium
+67.32099066915572,Rainy,Dry,12,Urban,Medium,0,Medium
+116.81934279147217,Snowy,Wet,3,Highway,High,1,High
+38.55255157031212,Snowy,Under Maintenance,13,Urban,Medium,1,Low
+106.86231679556109,Snowy,Dry,13,Rural,High,1,Medium
+97.65968527917417,Rainy,Icy,15,Highway,Low,1,High
+97.0921844644052,Foggy,Dry,6,Rural,Low,0,Medium
+104.47832281168877,Foggy,Icy,18,Rural,High,1,Medium
+96.10239909429988,Sunny,Wet,1,Highway,High,1,High
+82.62203216314154,Foggy,Dry,9,Rural,High,1,Medium
+33.12448776823876,Sunny,Wet,17,Rural,Low,0,Low
+23.25261794912519,Rainy,Under Maintenance,16,Rural,Low,1,Low
+112.08478478156869,Snowy,Icy,4,Highway,Medium,1,High
+81.6650314520738,Snowy,Icy,11,Highway,High,1,High
+99.65372909761763,Snowy,Wet,5,Rural,Medium,1,Medium
+68.15223515125501,Foggy,Under Maintenance,21,Highway,Low,1,High
+31.730818896239448,Sunny,Dry,8,Highway,Medium,0,Medium
+32.51857922025504,Sunny,Dry,19,Rural,Medium,0,Low
+88.55652872289714,Rainy,Icy,0,Highway,Low,1,High
+63.030589489946266,Foggy,Wet,21,Urban,Low,1,Low
+40.05247267003367,Rainy,Wet,14,Highway,High,1,Medium
+69.15945467414369,Sunny,Dry,20,Urban,Medium,0,Medium
+26.420893707513407,Sunny,Under Maintenance,5,Rural,Low,0,Low
+78.19714019143987,Snowy,Under Maintenance,18,Highway,Low,1,High
+46.89934044350977,Foggy,Dry,17,Rural,Medium,0,Medium
+99.75591006371882,Sunny,Dry,5,Rural,Low,0,Medium
+51.03619589235738,Snowy,Wet,12,Rural,High,1,Low
+65.52201490818013,Foggy,Under Maintenance,0,Rural,High,1,Low
+21.162053990810065,Rainy,Dry,22,Rural,Medium,0,Low
+27.24468877945589,Foggy,Dry,22,Highway,High,0,Medium
+59.24935564066848,Foggy,Icy,12,Urban,Low,1,Low
+67.99388347171235,Sunny,Dry,6,Highway,Low,0,High
+80.00205481193038,Sunny,Dry,14,Highway,Low,0,High
+49.16625787093032,Foggy,Under Maintenance,11,Highway,Low,1,High
+89.49818861265426,Sunny,Wet,0,Highway,Medium,0,High
+106.01223971892045,Sunny,Under Maintenance,14,Urban,High,1,Low
+97.98509888933498,Sunny,Wet,3,Highway,High,1,High
+23.961882534835716,Snowy,Icy,12,Rural,Low,1,Low
+68.0506947257829,Snowy,Dry,22,Highway,Medium,0,Medium
+30.493017841817487,Foggy,Icy,4,Highway,Low,0,High
+44.204501586252746,Sunny,Wet,1,Urban,Low,0,Low
+118.66625932671465,Snowy,Under Maintenance,22,Urban,Medium,1,High
+34.24955429015132,Foggy,Under Maintenance,0,Rural,Medium,1,Low
+69.88881534513561,Sunny,Icy,15,Highway,Low,0,High
+81.81557343181191,Rainy,Wet,22,Highway,High,1,High
+90.2464970544104,Sunny,Icy,5,Highway,Low,1,High
+75.96486834869141,Sunny,Icy,22,Rural,High,1,Medium
+20.977084741918365,Snowy,Dry,15,Urban,High,1,Low
+52.64613082439919,Foggy,Icy,13,Rural,Medium,1,Low
+71.77116433847115,Foggy,Dry,2,Highway,Medium,0,Medium
+28.786649914483334,Snowy,Dry,14,Urban,Low,0,Low
+55.06269312091808,Sunny,Under Maintenance,2,Urban,High,1,Low
+23.320310879136656,Rainy,Dry,22,Rural,High,0,Low
+27.857849715502073,Sunny,Dry,1,Urban,Low,0,Low
+59.69232762015961,Sunny,Under Maintenance,0,Urban,Low,0,Medium
+33.271575404306034,Rainy,Icy,8,Highway,Low,1,Medium
+76.75408482615582,Snowy,Wet,8,Highway,Medium,1,High
+88.94649691372658,Foggy,Wet,22,Urban,Low,1,Medium
+100.05866991090829,Snowy,Wet,6,Urban,Low,1,Medium
+40.01502442448101,Snowy,Icy,2,Rural,High,1,Low
+36.74825822590698,Sunny,Dry,17,Rural,Low,0,Low
+30.456784033440023,Foggy,Wet,10,Urban,High,1,Low
+83.64302495436367,Foggy,Icy,6,Highway,High,1,High
+90.64757264869012,Snowy,Dry,8,Urban,Medium,1,Medium
+23.158614482564204,Rainy,Under Maintenance,0,Urban,Low,1,Low
+113.62122462436898,Snowy,Wet,13,Highway,Low,1,High
+25.197128365147243,Rainy,Dry,19,Highway,High,1,Medium
+74.12963353010704,Foggy,Wet,5,Rural,Medium,1,Medium
+90.90605194509165,Snowy,Wet,6,Rural,Medium,1,Medium
+107.09691237460856,Sunny,Wet,9,Rural,Low,0,Medium
+91.40869321324278,Snowy,Dry,6,Rural,High,1,Medium
+100.17280830697918,Foggy,Icy,1,Highway,Low,1,High
+53.94501925428061,Sunny,Dry,3,Urban,Low,0,Low
+101.48251137465122,Sunny,Wet,20,Rural,Low,1,Medium
+28.011484638467515,Rainy,Dry,16,Rural,Low,0,Low
+109.48166560605276,Sunny,Under Maintenance,0,Highway,High,1,High
+74.75923761537362,Sunny,Icy,9,Highway,Medium,0,High
+101.72977699624937,Snowy,Dry,18,Urban,Low,1,Medium
+65.23182845183001,Foggy,Under Maintenance,14,Urban,Low,1,Low
+84.35776951965249,Rainy,Icy,9,Highway,Low,1,High
+72.64026609361133,Snowy,Under Maintenance,18,Rural,Low,1,Low
+93.15895217553319,Sunny,Icy,11,Rural,Medium,1,Low
+28.162998203058958,Sunny,Dry,23,Rural,Medium,0,Low
+26.03520839905638,Rainy,Under Maintenance,15,Urban,Medium,0,Low
+44.71032340101465,Foggy,Wet,8,Rural,Medium,1,Low
+35.95446801131884,Rainy,Under Maintenance,14,Rural,Low,0,Low
+107.17835665922017,Snowy,Icy,16,Highway,High,1,High
+41.92139873580443,Rainy,Dry,13,Rural,Medium,0,Low
+117.58652558191314,Sunny,Icy,17,Highway,Medium,1,High
+53.68957917711069,Snowy,Under Maintenance,1,Rural,Low,1,Low
+38.21179156886993,Sunny,Under Maintenance,3,Urban,Low,0,Medium
+98.96985071424791,Foggy,Wet,17,Rural,Low,1,Medium
+85.87077755008761,Sunny,Dry,6,Rural,Low,0,Medium
+69.8195716453139,Sunny,Dry,12,Highway,High,0,High
+75.53635509376312,Rainy,Under Maintenance,14,Highway,High,1,High
+91.92017782722638,Sunny,Dry,22,Highway,Medium,0,High
+42.84547413312987,Snowy,Wet,21,Rural,High,1,Low
+119.63339160567419,Snowy,Icy,0,Rural,Medium,1,Medium
+117.4793162146783,Foggy,Dry,10,Urban,Medium,1,Medium
+85.03256863469369,Snowy,Under Maintenance,9,Rural,High,1,Medium
+39.95424509291451,Rainy,Icy,4,Urban,Medium,1,Low
+88.02282424312914,Foggy,Icy,15,Highway,Low,1,High
+27.219840897917585,Snowy,Wet,10,Highway,Medium,0,Medium
+23.065250220580605,Rainy,Under Maintenance,20,Highway,Low,0,Medium
+45.76828885112137,Snowy,Dry,5,Urban,High,1,Low
+66.26229567393163,Snowy,Under Maintenance,8,Rural,High,1,Medium
+106.82725054083805,Sunny,Icy,12,Highway,Medium,1,High
+92.7169069766308,Snowy,Under Maintenance,23,Rural,Low,1,Low
+94.2706521199981,Snowy,Dry,7,Rural,Medium,1,Medium
+62.54933344480754,Rainy,Dry,13,Highway,High,1,High
+54.59349925469629,Rainy,Wet,23,Urban,Medium,1,Medium
+57.10387629846027,Sunny,Dry,0,Rural,Medium,0,Medium
+118.76495637360578,Snowy,Dry,16,Highway,Low,1,High
+24.010919141248248,Sunny,Under Maintenance,23,Rural,High,1,Low
+106.70314961224486,Snowy,Under Maintenance,4,Rural,Medium,1,Medium
+77.86754085723933,Foggy,Icy,1,Rural,Low,1,Medium
+63.86154191895905,Foggy,Wet,23,Rural,Medium,1,Medium
+92.52576604151365,Sunny,Under Maintenance,8,Rural,Low,0,Medium
+68.66689414247028,Sunny,Dry,3,Urban,Low,0,Low
+107.34232380816606,Sunny,Icy,16,Urban,Medium,1,Medium
+110.07018640112585,Rainy,Under Maintenance,16,Highway,High,1,High
+62.17209268734554,Rainy,Wet,20,Urban,High,1,Medium
+47.682779723505156,Rainy,Wet,17,Urban,Low,1,Medium
+79.23503285933623,Sunny,Icy,15,Urban,High,1,Medium
+111.2363345616691,Snowy,Icy,7,Rural,Low,1,Medium
+41.06621890056665,Foggy,Icy,10,Rural,High,1,Low
+82.29665835634827,Sunny,Icy,20,Highway,Medium,0,High
+83.15602200925206,Rainy,Icy,20,Highway,High,1,High
+93.3113022415281,Rainy,Dry,17,Highway,Low,0,High
+33.15676851272598,Sunny,Dry,22,Rural,Low,0,Low
+91.58249646820886,Sunny,Under Maintenance,23,Urban,High,1,Medium
+110.9032520665641,Rainy,Wet,9,Urban,Medium,1,High
+37.968310887024195,Snowy,Dry,12,Rural,Low,0,Low
+43.75433249238776,Rainy,Dry,16,Highway,Low,0,Medium
+117.13950940416396,Rainy,Dry,17,Highway,Low,1,High
+38.097695270948975,Sunny,Under Maintenance,9,Highway,Low,0,Medium
+105.4385093369579,Snowy,Icy,15,Rural,Low,1,Medium
+69.22778564480348,Rainy,Under Maintenance,19,Highway,Medium,1,Medium
+44.723107440317705,Rainy,Wet,4,Highway,High,1,Medium
+107.07499012725114,Foggy,Wet,12,Rural,Medium,1,Medium
+64.53052550026655,Sunny,Wet,17,Urban,Medium,0,Low
+71.48173539296903,Foggy,Wet,16,Rural,Low,0,Medium
+55.92333693997657,Foggy,Dry,8,Rural,Medium,0,Medium
+79.29508514349274,Rainy,Dry,13,Rural,Low,1,Low
+36.352387258502276,Sunny,Under Maintenance,16,Rural,Medium,0,Low
+59.10815366517607,Snowy,Icy,3,Urban,Low,1,Low
+116.94123223352875,Rainy,Wet,17,Highway,Low,1,High
+45.81334327011275,Snowy,Under Maintenance,19,Rural,Medium,1,Low
+85.67366645412922,Snowy,Dry,23,Urban,Medium,1,Medium
+52.51900642246949,Sunny,Dry,23,Highway,High,0,Medium
+97.34731256866006,Foggy,Icy,14,Highway,High,1,High
+33.08736607183498,Sunny,Icy,10,Highway,High,0,Medium
+116.98210450785447,Snowy,Icy,11,Rural,Medium,1,Medium
+65.37895413836392,Rainy,Under Maintenance,8,Rural,Medium,1,Low
+43.605046334646396,Snowy,Dry,12,Highway,Low,0,High
+27.349674733001265,Rainy,Dry,14,Highway,High,0,High
+36.97579050875407,Rainy,Icy,14,Highway,Low,1,Medium
+71.97739485560177,Sunny,Wet,4,Highway,Low,0,High
+53.70031764312863,Snowy,Icy,22,Highway,Low,1,Medium
+102.88833658826094,Foggy,Under Maintenance,18,Highway,Low,1,High
+63.08875236618059,Snowy,Icy,19,Urban,High,1,Low
+44.87142725876299,Snowy,Icy,13,Highway,Low,1,High
+81.714498660403,Foggy,Under Maintenance,16,Rural,Medium,1,Medium
+90.67772168854458,Sunny,Icy,17,Rural,Medium,1,Medium
+36.704190790094984,Snowy,Dry,20,Rural,Medium,0,Low
+36.761921628831765,Snowy,Wet,2,Highway,High,1,Medium
+23.667142693354297,Rainy,Icy,1,Rural,Low,0,Low
+93.64020150656405,Snowy,Under Maintenance,0,Urban,High,1,Low
+86.38045276218051,Foggy,Wet,9,Highway,Low,1,High
+67.46308757498139,Rainy,Under Maintenance,18,Rural,High,1,Medium
+104.41704489691972,Sunny,Wet,16,Urban,High,1,Medium
+100.56701529500532,Rainy,Wet,11,Urban,Low,1,Low
+78.53543643967521,Foggy,Icy,0,Rural,High,1,Medium
+106.82712805132586,Foggy,Dry,11,Urban,Low,1,High
+40.58412100367683,Rainy,Icy,16,Rural,Medium,1,Low
+31.19196193977279,Sunny,Under Maintenance,23,Urban,Medium,0,Low
+46.97496115169896,Rainy,Under Maintenance,2,Highway,Medium,1,Medium
+25.708685608931486,Sunny,Wet,10,Highway,High,1,Medium
+73.1169528001032,Rainy,Wet,16,Highway,Medium,1,High
+113.66056922949615,Foggy,Dry,22,Highway,Low,1,High
+23.934354066850965,Snowy,Icy,2,Highway,Medium,0,Medium
+32.21099140100268,Snowy,Under Maintenance,7,Rural,Medium,1,Low
+65.21990282834352,Sunny,Wet,19,Highway,High,1,High
+113.38750175279048,Sunny,Dry,3,Highway,Low,0,High
+51.61561049767505,Sunny,Under Maintenance,20,Highway,High,1,High
+70.72348086883925,Foggy,Wet,21,Highway,High,1,High
+24.15728590503921,Rainy,Under Maintenance,6,Urban,Low,1,Low
+34.834320096208884,Foggy,Dry,13,Highway,High,0,High
+118.66301229588468,Snowy,Dry,13,Highway,Low,1,High
+116.51186964360456,Sunny,Under Maintenance,3,Rural,Medium,1,Medium
+20.49399809344096,Rainy,Icy,15,Urban,Low,0,Low
+115.18117854232389,Snowy,Under Maintenance,23,Rural,Low,1,High
+83.91199378155004,Snowy,Wet,21,Highway,Low,1,High
+106.79182945200222,Snowy,Icy,0,Rural,High,1,Medium
+65.47398556338591,Foggy,Wet,16,Rural,Low,1,Medium
+71.55960285792503,Sunny,Under Maintenance,9,Highway,Low,0,High
+68.88465802569202,Snowy,Icy,21,Urban,Low,1,Medium
+86.68642575461044,Sunny,Wet,15,Urban,Medium,0,Medium
+33.96512547563129,Foggy,Under Maintenance,15,Rural,Low,1,Low
+22.997358987267795,Snowy,Under Maintenance,7,Highway,High,1,Medium
+50.79299415911909,Foggy,Icy,6,Rural,Low,0,Medium
+90.46807627366466,Foggy,Under Maintenance,5,Rural,Low,1,Medium
+40.185345212294834,Sunny,Dry,15,Rural,Medium,0,Medium
+87.34324333249174,Snowy,Wet,19,Highway,Low,1,High
+116.99120461072704,Foggy,Wet,15,Highway,High,1,High
+29.39007157894184,Snowy,Under Maintenance,6,Urban,Low,1,Low
+87.26021182251263,Sunny,Under Maintenance,8,Highway,High,1,High
+64.37502193045711,Foggy,Dry,13,Rural,Medium,0,Medium
+106.81422543775054,Sunny,Icy,10,Rural,Low,0,Medium
+37.71497894473859,Snowy,Under Maintenance,13,Urban,Medium,0,Low
+89.26259522261645,Snowy,Under Maintenance,6,Highway,Low,1,High
+103.81152896481102,Sunny,Under Maintenance,0,Rural,High,1,Medium
+114.46142194740233,Rainy,Under Maintenance,12,Urban,Medium,1,Medium
+88.32480282896458,Foggy,Wet,19,Urban,Low,1,Medium
+69.71747640084273,Snowy,Under Maintenance,2,Rural,High,1,Low
+81.78472402012139,Snowy,Wet,19,Rural,Medium,1,Low
+106.89049844787182,Foggy,Under Maintenance,3,Highway,Low,1,High
+77.06097466388297,Sunny,Icy,10,Urban,Medium,0,Medium
+23.038705969683686,Sunny,Dry,1,Rural,Low,0,Low
+113.09486955069778,Sunny,Icy,13,Urban,High,1,High
+88.95267510315611,Rainy,Under Maintenance,11,Highway,High,1,High
+87.65133857772466,Rainy,Under Maintenance,16,Rural,Medium,1,Medium
+41.567515239771716,Snowy,Under Maintenance,11,Highway,Medium,1,Medium
+85.88854702326572,Sunny,Icy,11,Urban,Low,1,Medium
+59.386440565415846,Foggy,Under Maintenance,0,Highway,High,1,High
+85.12329770414921,Snowy,Icy,12,Highway,Low,1,High
+30.659303030799073,Foggy,Wet,13,Urban,High,1,Medium
+85.7845304603036,Snowy,Dry,23,Highway,Medium,0,Medium
+119.94137257706666,Rainy,Dry,1,Urban,Low,1,High
+24.821203886055603,Snowy,Icy,11,Rural,Low,1,Low
+117.71741842213173,Rainy,Wet,20,Urban,High,1,Medium
+60.690796072287064,Snowy,Icy,15,Urban,High,1,Medium
+107.07534503372591,Sunny,Wet,3,Rural,High,1,Medium
+98.23854840582734,Foggy,Under Maintenance,7,Urban,Medium,1,Medium
+76.70162609866678,Sunny,Wet,1,Rural,Low,0,Low
+93.84492092513266,Snowy,Wet,9,Rural,High,1,Low
+107.8515561301348,Snowy,Wet,8,Urban,Medium,1,Medium
+60.4140321651033,Snowy,Dry,22,Highway,High,1,High
+52.70331615632387,Rainy,Wet,14,Highway,Low,0,Medium
+86.75933855635847,Foggy,Under Maintenance,12,Rural,High,1,Medium
+100.78459419412586,Foggy,Under Maintenance,22,Highway,Low,1,High
+96.22851347766158,Snowy,Under Maintenance,16,Highway,Medium,1,High
+99.78136488586345,Snowy,Wet,15,Urban,Medium,1,Medium
+63.5583314812933,Rainy,Icy,1,Rural,High,1,Medium
+101.78342161750216,Sunny,Icy,19,Rural,Low,1,Medium
+32.02090553706084,Sunny,Under Maintenance,19,Urban,Low,0,Low
+74.44890979608496,Foggy,Dry,13,Highway,Low,0,High
+20.575866049812156,Rainy,Icy,2,Rural,High,1,Low
+52.45858299002703,Snowy,Wet,22,Highway,Low,1,High
+56.646153487139784,Foggy,Icy,11,Rural,Low,1,Low
+59.61726916092554,Rainy,Under Maintenance,7,Rural,Low,1,Low
+89.54672066898621,Sunny,Dry,1,Rural,Low,0,Medium
+58.85581012703457,Rainy,Icy,3,Rural,High,1,Low
+64.86936226225306,Sunny,Icy,13,Highway,High,1,High
+43.754413087432745,Rainy,Under Maintenance,15,Highway,Low,1,High
+57.325179162934006,Foggy,Dry,18,Highway,Low,0,High
+42.72696272631515,Sunny,Dry,1,Highway,Medium,0,High
+27.319592376844362,Foggy,Under Maintenance,11,Urban,Medium,1,Low
+80.34485933813778,Foggy,Wet,13,Rural,Low,1,Medium
+86.82127985550163,Sunny,Icy,5,Rural,Low,0,Medium
+81.94903460096145,Sunny,Wet,12,Rural,Medium,0,Low
+66.34940438005724,Snowy,Icy,3,Urban,Medium,1,Medium
+57.978578017922985,Snowy,Icy,21,Highway,Low,0,High
+106.33336495718252,Snowy,Wet,17,Rural,High,1,Medium
+71.9081785136218,Foggy,Under Maintenance,11,Highway,High,1,Medium
+67.9181877629731,Foggy,Under Maintenance,19,Highway,Low,1,High
+22.564206580643567,Snowy,Icy,21,Urban,Low,1,Low
+54.12478276261564,Foggy,Under Maintenance,20,Urban,Medium,1,Low
+58.019561878585705,Foggy,Icy,18,Highway,Medium,1,High
+59.88227808969005,Sunny,Under Maintenance,7,Rural,High,1,Medium
+78.01723692273322,Sunny,Icy,6,Rural,Low,0,Low
+73.36025467268784,Foggy,Under Maintenance,15,Urban,Medium,1,Low
+80.79050927934446,Snowy,Dry,18,Urban,High,1,Medium
+96.48832615421283,Rainy,Wet,5,Urban,High,1,Medium
+101.29857387160935,Snowy,Dry,19,Urban,High,1,Medium
+91.81230762264944,Rainy,Wet,20,Urban,Medium,1,Medium
+115.55236959549347,Snowy,Wet,10,Urban,Medium,1,Medium
+21.823258267636163,Sunny,Icy,4,Urban,Low,0,Low
+39.57779856835461,Foggy,Wet,15,Rural,Low,1,Low
+20.756287497814213,Foggy,Dry,6,Urban,High,0,Low
+84.7474714154603,Sunny,Dry,4,Urban,High,0,Medium
+109.8030548949987,Rainy,Under Maintenance,10,Rural,Medium,1,High
+44.34822965762993,Rainy,Dry,14,Rural,Medium,0,Low
+112.70345447963066,Rainy,Under Maintenance,2,Highway,Low,1,High
+26.026739028956086,Sunny,Wet,4,Urban,Low,0,Low
+113.44360268055144,Rainy,Dry,22,Urban,Low,1,Medium
+55.16226872396344,Sunny,Wet,20,Urban,Medium,0,Low
+30.142082844921653,Snowy,Dry,4,Urban,High,0,Low
+68.58717591863257,Snowy,Dry,8,Highway,Low,0,High
+45.677656772050796,Sunny,Under Maintenance,14,Rural,Low,0,Low
+48.48729019619228,Foggy,Wet,2,Rural,Medium,1,Medium
+50.72899649262865,Snowy,Dry,5,Urban,Low,0,Low
+100.30258978326634,Rainy,Icy,16,Urban,High,1,Medium
+73.91612766752544,Sunny,Wet,20,Urban,Medium,0,Medium
+51.13076991560037,Rainy,Wet,7,Highway,Low,1,Medium
+81.03337833109184,Rainy,Wet,20,Highway,Low,1,High
+91.61506742231936,Foggy,Under Maintenance,10,Rural,Medium,1,Medium
+47.262400073353376,Rainy,Icy,5,Urban,Medium,1,Low
+61.354910152535155,Foggy,Wet,7,Urban,Low,1,Medium
+32.18860933369476,Snowy,Dry,9,Urban,High,1,Low
+38.11493495346803,Sunny,Dry,23,Urban,Medium,0,Low
+88.11178539649828,Rainy,Under Maintenance,2,Highway,High,1,High
+38.143834769562694,Sunny,Dry,22,Rural,Low,0,Low
+72.51633836670601,Rainy,Wet,13,Rural,High,1,Medium
+90.90462617224327,Sunny,Dry,22,Highway,Low,0,High
+30.687692309474386,Rainy,Wet,13,Urban,Low,0,Low
+76.73122196289034,Rainy,Dry,9,Rural,Low,0,Low
+45.65627837013638,Rainy,Icy,11,Rural,Low,1,Low
+116.29268752375798,Rainy,Under Maintenance,5,Highway,High,1,High
+68.35456467199248,Rainy,Under Maintenance,11,Urban,Low,1,Medium
+100.59925497751581,Rainy,Icy,22,Rural,Low,1,Medium
+75.02265421562618,Rainy,Icy,13,Urban,High,1,Medium
+24.341253285481915,Rainy,Under Maintenance,1,Rural,Medium,0,Low
+83.31513755940223,Rainy,Icy,8,Highway,High,1,High
+115.14033422066571,Sunny,Wet,9,Urban,High,1,Medium
+80.16118201463311,Foggy,Dry,16,Highway,High,1,High
+101.91888594267903,Rainy,Under Maintenance,16,Rural,Low,1,Medium
+108.42064633484078,Foggy,Icy,2,Highway,Low,1,High
+42.80797719489325,Rainy,Wet,18,Highway,Low,0,Medium
+41.204483990822666,Rainy,Under Maintenance,0,Highway,Medium,1,Medium
+81.09809888509918,Sunny,Icy,11,Rural,Low,1,Medium
+61.10284698067047,Snowy,Under Maintenance,6,Urban,Medium,1,Low
+103.98613028667204,Snowy,Icy,3,Highway,Low,1,High
+110.00231233980112,Sunny,Under Maintenance,9,Urban,High,1,Medium
+55.34213793027181,Foggy,Wet,12,Rural,Low,1,Low
+43.687055897448204,Snowy,Wet,1,Urban,Medium,1,Low
+98.05255152438619,Sunny,Dry,9,Highway,Medium,0,High
+47.48060355481361,Sunny,Under Maintenance,20,Highway,Low,0,High
+102.26143185136785,Snowy,Dry,21,Highway,High,1,High
+62.37382536487628,Foggy,Under Maintenance,3,Highway,Low,1,High
+86.75498992914704,Sunny,Icy,17,Highway,Low,0,High
+29.55353138346682,Rainy,Icy,4,Highway,Low,1,Medium
+82.3859324676573,Foggy,Dry,18,Rural,High,1,Medium
+65.17676787372291,Foggy,Under Maintenance,1,Rural,Medium,1,Medium
+78.66084631754741,Snowy,Dry,11,Rural,High,1,Medium
+36.801420774486346,Snowy,Wet,16,Urban,Medium,1,Low
+93.68737449441821,Rainy,Dry,9,Urban,Medium,1,Medium
+106.27970775432286,Sunny,Dry,1,Rural,Medium,0,High
+41.67398000907757,Snowy,Icy,5,Urban,High,1,Low
+29.57145555201617,Snowy,Dry,7,Urban,Low,0,Low
+22.36385860463364,Foggy,Under Maintenance,18,Highway,Low,1,Medium
+84.1971500443266,Snowy,Icy,10,Highway,Low,1,High
+80.70940360887808,Snowy,Dry,11,Urban,Low,0,Medium
+74.669741271407,Snowy,Wet,8,Urban,Low,1,Medium
+43.194709611597546,Snowy,Dry,1,Rural,High,1,Low
+59.09059959055147,Foggy,Dry,7,Urban,High,1,Medium
+79.4476335186173,Rainy,Dry,10,Highway,High,1,High
+69.67668588591694,Rainy,Icy,20,Urban,High,1,Low
+118.77855202148874,Sunny,Under Maintenance,3,Rural,High,1,Medium
+33.64397525567331,Snowy,Wet,9,Highway,High,1,High
+89.51445540475937,Foggy,Dry,20,Highway,High,1,High
+60.431876810429216,Sunny,Under Maintenance,19,Highway,Low,0,High
+62.819961492561475,Sunny,Under Maintenance,15,Highway,Medium,0,High
+91.75977656581762,Rainy,Icy,7,Urban,High,1,Medium
+89.24361513243696,Foggy,Wet,3,Rural,Medium,1,Low
+119.12559937021884,Foggy,Icy,9,Urban,High,1,Medium
+32.83942894541252,Foggy,Under Maintenance,11,Urban,High,1,Low
+30.410964938416633,Rainy,Under Maintenance,13,Highway,Low,1,Medium
+92.43388171287411,Rainy,Under Maintenance,15,Rural,Medium,1,Medium
+77.83869170064091,Rainy,Icy,21,Highway,Low,1,High
+47.416066655980586,Rainy,Wet,17,Urban,Low,1,Low
+27.94193689889866,Rainy,Dry,20,Urban,Medium,0,Low
+28.565824959643052,Snowy,Icy,21,Highway,Low,0,Medium
+109.41908746641182,Snowy,Under Maintenance,20,Urban,High,1,Medium
+39.18673247187429,Foggy,Icy,11,Urban,High,1,Medium
+52.33715621155208,Sunny,Under Maintenance,17,Highway,High,0,High
+42.6656402226988,Foggy,Dry,6,Urban,High,1,Medium
+55.49963058319373,Sunny,Dry,19,Rural,High,0,Low
+26.94238427460934,Rainy,Wet,23,Highway,Low,0,Medium
+71.90597909082703,Sunny,Under Maintenance,22,Rural,Low,0,Low
+26.76125635922149,Foggy,Wet,6,Urban,High,1,Low
+100.03565078223616,Foggy,Wet,8,Urban,High,1,Medium
+43.3712081910433,Sunny,Dry,0,Highway,Low,0,Medium
+74.00119146045105,Snowy,Icy,5,Urban,Medium,1,Medium
+108.00790875614582,Rainy,Icy,5,Highway,Low,1,High
+85.08773690471942,Rainy,Wet,21,Highway,Low,1,Medium
+73.29577865513353,Foggy,Dry,11,Highway,Low,0,High
+52.43337531153756,Snowy,Under Maintenance,21,Highway,Low,1,High
+53.300191305819794,Sunny,Icy,11,Highway,Low,0,Medium
+86.94869551981901,Rainy,Wet,9,Rural,Medium,1,Medium
+119.41393612211675,Snowy,Icy,22,Highway,High,1,High
+86.18391898493786,Rainy,Icy,5,Rural,High,1,Medium
+75.77834173700249,Snowy,Under Maintenance,16,Urban,Medium,1,Medium
+93.06505102392461,Snowy,Dry,18,Highway,High,1,High
+66.52056122837182,Foggy,Under Maintenance,17,Urban,High,1,Medium
+26.01423426007852,Rainy,Dry,5,Highway,High,0,Medium
+76.22968158779098,Sunny,Icy,23,Rural,Medium,1,Medium
+115.76252845053801,Foggy,Wet,18,Rural,Medium,1,Medium
+37.530294235765965,Foggy,Under Maintenance,9,Rural,High,1,Low
+89.00048908206658,Sunny,Dry,23,Urban,High,0,Medium
+40.093368865905646,Foggy,Icy,7,Highway,High,1,High
+73.58276844730813,Snowy,Dry,20,Urban,Low,1,Medium
+29.66764496467196,Snowy,Dry,23,Rural,Low,0,Low
+65.03709362581851,Rainy,Dry,5,Urban,Low,0,Medium
+95.61633288952461,Rainy,Icy,20,Rural,Medium,1,Medium
+54.757152423898205,Sunny,Wet,6,Rural,High,1,Medium
+86.4911724487218,Rainy,Wet,23,Rural,Medium,1,Medium
+99.54499607897291,Snowy,Wet,0,Highway,Medium,1,High
+112.71778194794527,Sunny,Dry,17,Highway,Medium,0,High
+43.46420818554535,Sunny,Icy,23,Rural,High,1,Low
+59.931591580930814,Rainy,Dry,19,Urban,Low,0,Low
+35.24160133304174,Snowy,Wet,11,Urban,High,1,Low
+119.24835021583752,Sunny,Wet,15,Highway,High,1,High
+112.70009679242953,Snowy,Icy,9,Rural,Medium,1,Medium
+73.99571302805596,Snowy,Dry,9,Urban,Medium,0,Low
+104.20332943764213,Snowy,Under Maintenance,13,Rural,Medium,1,Medium
+72.09579772720423,Rainy,Under Maintenance,19,Urban,Low,1,Low
+82.35856880027598,Foggy,Wet,9,Highway,Low,1,High
+28.912443211601662,Foggy,Icy,9,Rural,Low,0,Low
+95.52704204968079,Sunny,Dry,10,Rural,High,1,Medium
+32.77134836352349,Snowy,Dry,22,Urban,Medium,0,Low
+102.60676302525283,Rainy,Wet,1,Urban,High,1,Medium
+98.20280876703859,Snowy,Wet,19,Urban,Low,1,Medium
+90.87446977429764,Snowy,Dry,7,Rural,Medium,0,Medium
+23.616038052476213,Rainy,Dry,22,Highway,Low,0,Medium
+50.31283559453286,Foggy,Wet,6,Highway,Medium,1,Medium
+46.311256991084285,Snowy,Dry,7,Urban,Medium,0,Low
+56.01364074715191,Snowy,Under Maintenance,0,Highway,High,1,High
+28.764274676383856,Foggy,Wet,20,Urban,High,1,Low
+113.69578230310628,Rainy,Dry,1,Highway,Low,1,High
+75.38022407123762,Sunny,Wet,17,Rural,High,1,Low
+50.55243106580235,Foggy,Icy,14,Urban,High,1,Low
+59.698151707428345,Sunny,Wet,0,Highway,High,1,Medium
+64.72025405048356,Sunny,Wet,4,Rural,Medium,0,Low
+80.05943333606173,Foggy,Icy,1,Highway,High,1,High
+71.56794276964978,Snowy,Under Maintenance,19,Rural,Low,1,Low
+111.93919732144174,Sunny,Dry,2,Rural,Medium,0,Medium
+69.69634829058302,Sunny,Icy,18,Highway,Medium,0,High
+119.21580148233127,Rainy,Wet,17,Highway,High,1,High
+105.14249577450957,Snowy,Dry,21,Rural,Medium,1,Medium
+40.85105143573358,Sunny,Icy,17,Rural,Low,0,Low
+113.05952146439162,Rainy,Dry,13,Rural,Low,1,Medium
+31.63663978854761,Snowy,Dry,23,Urban,Medium,0,Low
+101.74497084911916,Foggy,Icy,7,Rural,High,1,Medium
+58.06232934765801,Foggy,Dry,11,Urban,High,1,Low
+107.79743204450695,Rainy,Under Maintenance,20,Rural,Medium,1,Medium
+106.80566901074504,Foggy,Icy,9,Urban,Low,1,Medium
+100.59254001176211,Sunny,Under Maintenance,22,Rural,Medium,1,Medium
+99.00304363070614,Snowy,Wet,19,Rural,High,1,Medium
+50.46791390980408,Sunny,Dry,16,Rural,High,0,Low
+28.09192830512522,Sunny,Wet,10,Highway,Medium,0,Medium
+60.29801787651615,Foggy,Wet,1,Highway,Low,1,High
+37.352451498650865,Sunny,Dry,3,Rural,Medium,0,Low
+89.49510889024617,Foggy,Icy,0,Urban,Low,1,Medium
+54.609972653778556,Snowy,Dry,14,Urban,Low,0,Low
+117.56102008599149,Snowy,Wet,12,Rural,Medium,1,Medium
+84.0972077345332,Sunny,Wet,7,Highway,Medium,0,High
+102.24805636343609,Rainy,Icy,3,Urban,Low,1,Medium
+33.252467274184845,Foggy,Dry,9,Highway,Low,0,Medium
+106.20144822726226,Foggy,Wet,18,Urban,Low,1,Medium
+112.27571905133944,Sunny,Under Maintenance,17,Rural,Low,1,Medium
+68.70619188189359,Foggy,Wet,4,Highway,High,1,High
+80.62529377509775,Foggy,Wet,18,Urban,Medium,1,Medium
+96.48098009029954,Rainy,Icy,22,Rural,Low,1,Medium
+37.48386272604125,Rainy,Under Maintenance,21,Rural,Medium,0,Low
+70.25660764634424,Sunny,Wet,15,Rural,Low,0,Medium
+59.86630277723131,Rainy,Wet,0,Highway,Medium,1,Medium
+34.63739921622491,Sunny,Under Maintenance,11,Highway,Medium,0,Medium
+56.753442229153144,Snowy,Dry,23,Rural,Low,0,Low
+26.817230938549358,Sunny,Dry,1,Highway,Low,0,Medium
+22.5811906949487,Snowy,Wet,20,Urban,Medium,0,Low
+33.51662891548227,Sunny,Wet,7,Rural,Medium,0,Low
+116.31151115891738,Foggy,Dry,17,Rural,Medium,1,Medium
+74.9529535895017,Rainy,Icy,15,Highway,High,1,High
+116.582216115322,Snowy,Under Maintenance,4,Rural,Low,1,Medium
+63.2497878330132,Sunny,Under Maintenance,21,Urban,High,1,Medium
+51.181613308525954,Rainy,Icy,12,Highway,High,1,High
+70.61418628402441,Sunny,Icy,18,Highway,Low,0,High
+63.95116886329101,Rainy,Icy,2,Rural,Low,1,Low
+30.566468426174392,Rainy,Icy,7,Rural,High,1,Low
+84.08263146902063,Sunny,Icy,11,Rural,Low,1,Medium
+41.60381825095996,Snowy,Icy,1,Highway,Medium,1,High
+81.95879548978296,Snowy,Under Maintenance,10,Rural,Medium,1,Low
+85.02010923981534,Foggy,Icy,11,Urban,High,1,Medium
+35.20248531286481,Rainy,Dry,17,Rural,High,1,Low
+26.134962711066816,Foggy,Icy,12,Rural,Low,0,Low
+98.07615860684398,Foggy,Icy,4,Highway,Low,1,High
+65.98004237693202,Sunny,Under Maintenance,21,Rural,High,1,Low
+25.81637955054758,Sunny,Under Maintenance,11,Highway,High,1,Medium
+119.48663171697672,Sunny,Icy,1,Rural,Medium,1,Medium
+25.778056099636665,Rainy,Under Maintenance,4,Urban,Medium,0,Low
+89.50352288585532,Sunny,Wet,6,Urban,Low,0,Medium
+118.36789252634136,Sunny,Under Maintenance,23,Highway,Medium,0,High
+43.91801042159256,Rainy,Under Maintenance,11,Highway,Low,0,Medium
+34.22493686871962,Rainy,Under Maintenance,15,Rural,Low,0,Medium
+32.13849394224289,Snowy,Under Maintenance,22,Rural,Low,1,Low
+50.327514756759555,Sunny,Dry,7,Urban,Medium,0,Medium
+30.104581101064667,Sunny,Dry,8,Rural,High,0,Low
+89.2161341694132,Sunny,Dry,14,Urban,High,0,Medium
+26.22917981300627,Snowy,Icy,4,Highway,Medium,0,Medium
+70.94221281497897,Sunny,Icy,12,Rural,High,1,Medium
+119.66968538529768,Snowy,Wet,4,Highway,Low,1,High
+101.39702695060188,Foggy,Dry,10,Rural,High,1,Medium
+81.52194382310108,Snowy,Icy,9,Urban,Medium,1,Medium
+50.62536207866117,Foggy,Under Maintenance,19,Highway,High,1,Medium
+82.38958362916384,Sunny,Under Maintenance,12,Highway,Low,1,High
+72.70414639116515,Foggy,Dry,8,Rural,Low,0,Medium
+62.60833838903715,Snowy,Wet,20,Highway,Medium,1,High
+33.07103767401995,Rainy,Wet,13,Urban,Medium,1,Low
+108.66042152404667,Foggy,Under Maintenance,17,Highway,Medium,1,High
+64.97846488213224,Foggy,Wet,14,Highway,Low,1,High
+39.46225118207651,Sunny,Dry,9,Rural,High,0,Low
+56.77593508772896,Snowy,Under Maintenance,23,Highway,High,1,High
+61.4129752528927,Foggy,Icy,6,Rural,Medium,1,Medium
+102.75378955668742,Foggy,Icy,7,Rural,High,1,Medium
+93.3614380561402,Foggy,Wet,2,Highway,High,1,High
+96.93048936413398,Foggy,Under Maintenance,14,Urban,Medium,1,Medium
+21.10312644286472,Rainy,Under Maintenance,15,Rural,Medium,0,Low
+61.615399817976154,Snowy,Icy,3,Highway,Low,1,Medium
+68.13441516353237,Sunny,Under Maintenance,20,Rural,Low,0,Low
+21.919227682305667,Sunny,Under Maintenance,5,Urban,Low,0,Low
+45.981320874503425,Rainy,Under Maintenance,0,Urban,Low,1,Low
+96.0289823122135,Snowy,Wet,3,Rural,High,1,Medium
+33.7109705728999,Foggy,Under Maintenance,10,Urban,High,1,Low
+73.53101314525917,Rainy,Dry,11,Highway,Low,0,High
+41.52018720172375,Snowy,Wet,4,Highway,Low,0,Medium
+21.212077464389328,Foggy,Under Maintenance,22,Rural,Medium,0,Low
+44.12014575995415,Rainy,Under Maintenance,20,Urban,High,1,Low
+117.58737549100537,Snowy,Dry,15,Highway,High,1,High
+100.15371118829896,Sunny,Wet,12,Highway,Low,1,High
+115.95766443210334,Sunny,Icy,12,Highway,High,1,High
+68.78540439263625,Snowy,Icy,16,Rural,Medium,1,Medium
+30.97361986775035,Sunny,Wet,6,Rural,Medium,0,Low
+74.7959488973693,Snowy,Under Maintenance,7,Highway,High,1,High
+65.4377334559961,Foggy,Under Maintenance,12,Highway,Low,1,High
+104.4357082739616,Snowy,Icy,22,Urban,High,1,Medium
+29.80825807842446,Foggy,Icy,15,Urban,Medium,1,Low
+68.82411370217781,Rainy,Icy,3,Urban,Low,1,Low
+35.00486646939842,Snowy,Dry,7,Rural,High,1,Low
+52.467592689006,Rainy,Icy,15,Highway,Low,1,High
+93.73570773877996,Sunny,Dry,20,Rural,Low,0,Medium
+67.60181293687666,Foggy,Wet,9,Highway,Medium,1,Medium
+57.58882851457693,Snowy,Under Maintenance,11,Urban,Low,1,Low
+59.44762785700353,Rainy,Icy,11,Urban,High,1,Low
+65.94467684059866,Foggy,Under Maintenance,4,Urban,Low,1,Low
+98.50165438370568,Foggy,Under Maintenance,15,Urban,Low,1,Medium
+109.20846889402344,Sunny,Icy,0,Highway,High,1,High
+115.53346865039283,Sunny,Icy,8,Urban,Medium,1,Medium
+98.6903386255295,Foggy,Wet,11,Highway,Medium,1,High
+51.54068957480128,Foggy,Dry,4,Highway,High,1,Medium
+88.81347060865421,Snowy,Dry,21,Rural,High,1,Medium
+63.760312405539196,Foggy,Under Maintenance,19,Urban,Medium,1,Low
+45.467062204605114,Snowy,Icy,21,Urban,Low,1,Low
+104.08715794259226,Foggy,Wet,23,Rural,High,1,Medium
+23.8426348962325,Sunny,Wet,2,Highway,Low,0,Medium
+110.17619921354235,Snowy,Wet,4,Urban,High,1,Medium
+66.1477464624734,Rainy,Wet,1,Highway,Medium,1,High
+83.72014768082803,Sunny,Wet,13,Rural,Low,0,Low
+85.93539222057827,Snowy,Dry,1,Highway,Low,0,High
+109.51177407065364,Snowy,Dry,12,Urban,High,1,High
+83.66696821672073,Rainy,Dry,6,Highway,Low,0,High
+81.39335847600617,Snowy,Icy,9,Highway,High,1,High
+26.665204056068994,Foggy,Under Maintenance,12,Urban,Medium,1,Low
+71.8408021945204,Rainy,Wet,15,Urban,Low,1,Medium
+35.016900081704165,Sunny,Icy,13,Highway,High,1,Medium
+93.74337687214856,Sunny,Wet,10,Highway,Low,0,High
+71.22219208126745,Foggy,Dry,9,Rural,High,1,Medium
+88.02277792083532,Sunny,Icy,5,Urban,High,1,Low
+24.16729006023843,Snowy,Dry,3,Highway,High,1,Medium
+28.47920160458032,Snowy,Wet,20,Urban,Medium,1,Low
+91.63233880626822,Foggy,Wet,0,Rural,Low,1,Medium
+27.208433599867337,Sunny,Under Maintenance,6,Highway,Medium,0,Medium
+27.12567277652586,Sunny,Wet,23,Highway,High,0,Medium
+21.210847523488745,Foggy,Dry,8,Highway,High,0,Medium
+115.65013982994802,Rainy,Wet,7,Urban,Medium,1,Medium
+93.75083594590069,Sunny,Under Maintenance,4,Rural,Medium,1,Medium
+55.32514085020642,Rainy,Under Maintenance,18,Urban,Low,1,Medium
+49.653558128765525,Sunny,Dry,9,Highway,High,0,Medium
+54.97032297458495,Sunny,Icy,10,Rural,Medium,0,Medium
+97.46535311811819,Sunny,Wet,14,Highway,High,1,High
+86.13706110704143,Sunny,Under Maintenance,5,Highway,High,1,High
+38.51955678674679,Snowy,Wet,14,Urban,Low,1,Low
+37.41093353340844,Rainy,Wet,4,Highway,Low,1,Medium
+29.839564971339733,Rainy,Icy,18,Rural,Low,0,Low
+86.03027197013381,Sunny,Under Maintenance,21,Highway,Medium,0,High
+96.43726622217359,Sunny,Wet,18,Highway,High,1,High
+46.5046428325004,Rainy,Under Maintenance,9,Urban,Medium,1,Medium
+22.09449610309128,Snowy,Dry,11,Rural,Medium,0,Low
+28.217166747642736,Foggy,Dry,21,Urban,Low,0,Low
+116.78600348450304,Foggy,Wet,3,Highway,High,1,High
+49.54447774774202,Rainy,Under Maintenance,17,Urban,High,1,Low
+96.92231478381336,Sunny,Wet,15,Urban,Low,0,Medium
+82.46635688542638,Sunny,Under Maintenance,7,Urban,High,1,Low
+58.19396396528959,Snowy,Under Maintenance,3,Urban,Low,1,Low
+40.568726219555515,Foggy,Icy,22,Highway,Medium,0,Medium
+32.138641815940645,Snowy,Icy,11,Highway,Medium,0,Medium
+81.50129680388666,Foggy,Icy,1,Rural,Low,1,Medium
+97.4633780637788,Rainy,Wet,3,Urban,Medium,1,Medium
+84.39042535411306,Foggy,Icy,4,Urban,Medium,1,Medium
+73.03021332491583,Snowy,Icy,2,Rural,Low,1,Low
+24.195122343163625,Snowy,Dry,8,Urban,Medium,0,Low
+116.84887775943838,Snowy,Under Maintenance,20,Rural,High,1,Medium
+99.87141916545745,Rainy,Under Maintenance,17,Highway,Medium,1,High
+49.28220367009648,Foggy,Icy,10,Rural,Low,0,Low
+117.99703293588506,Foggy,Under Maintenance,2,Urban,High,1,Medium
+80.18815896363222,Snowy,Dry,22,Rural,High,1,Medium
+78.24226582072464,Foggy,Dry,1,Highway,Medium,0,High
+94.8073179429532,Sunny,Icy,8,Urban,High,1,Medium
+101.17697880901376,Sunny,Dry,13,Highway,Low,0,High
+85.64786073315027,Sunny,Under Maintenance,3,Highway,High,1,High
+32.80957463662,Foggy,Wet,8,Rural,Medium,1,Low
+53.82675059944984,Rainy,Under Maintenance,12,Highway,Medium,1,High
+112.80836403260497,Rainy,Wet,17,Urban,High,1,Medium
+42.46156118438519,Rainy,Icy,14,Highway,Low,0,Medium
+57.21670238375133,Rainy,Wet,9,Highway,Low,1,High
+63.2076882944196,Sunny,Dry,15,Rural,Medium,0,Medium
+63.940498969445215,Sunny,Under Maintenance,11,Highway,Medium,0,High
+81.29395824945254,Snowy,Wet,19,Rural,Low,1,Medium
+114.30758377447076,Foggy,Under Maintenance,4,Rural,High,1,Medium
+44.06927118325049,Foggy,Icy,1,Urban,High,1,Low
+32.150137630091805,Rainy,Icy,9,Urban,High,1,Low
+39.74704898599373,Sunny,Dry,0,Urban,High,0,Low
+108.69249002092695,Rainy,Icy,6,Urban,Low,1,High
+84.5810812655206,Snowy,Wet,16,Rural,Medium,1,Medium
+48.590678923916016,Foggy,Icy,15,Highway,Medium,0,Medium
+101.59469389686173,Foggy,Dry,23,Urban,High,1,Medium
+106.1369996363436,Rainy,Under Maintenance,2,Urban,Low,1,Medium
+104.6514338690278,Snowy,Under Maintenance,13,Urban,Low,1,Medium
+111.89265336395545,Foggy,Icy,9,Highway,High,1,High
+45.22410201733616,Snowy,Wet,21,Urban,High,1,Low
+95.50419287462783,Snowy,Dry,6,Highway,High,1,High
+66.053949727414,Rainy,Wet,16,Rural,Medium,1,Low
+104.19985528900615,Sunny,Dry,5,Rural,High,1,Medium
+92.84906771616131,Rainy,Icy,22,Rural,Medium,1,Medium
+97.64474464997247,Sunny,Dry,21,Highway,Low,0,High
+85.61618376810715,Snowy,Dry,3,Urban,Low,1,Medium
+37.74287694697068,Sunny,Icy,16,Urban,Medium,0,Medium
+74.50269188969384,Snowy,Wet,8,Urban,Medium,1,Medium
+118.46697395245081,Foggy,Icy,3,Urban,Medium,1,High
+113.73880664971189,Foggy,Dry,6,Urban,Medium,1,Medium
+24.31737357970117,Foggy,Icy,22,Highway,High,1,Medium
+36.481481572943714,Rainy,Dry,1,Rural,Low,0,Low
+33.17287734545619,Rainy,Icy,16,Urban,High,1,Low
+92.59799099852955,Snowy,Under Maintenance,23,Rural,Medium,1,Medium
+101.77853298569451,Foggy,Under Maintenance,7,Highway,High,1,High
+41.35113663106719,Rainy,Icy,22,Highway,High,1,High
+70.5852692951829,Foggy,Wet,14,Urban,Low,1,Medium
+104.07030280112,Rainy,Dry,14,Highway,High,1,High
+93.28015447662506,Sunny,Under Maintenance,7,Rural,Low,1,Medium
+74.22372054918483,Sunny,Wet,15,Urban,Medium,0,Medium
+79.03476904587728,Foggy,Dry,18,Urban,High,1,Medium
+70.836054691628,Snowy,Under Maintenance,10,Rural,Medium,1,Medium
+49.75484513188206,Rainy,Under Maintenance,1,Urban,Low,1,Low
+76.50219928590161,Rainy,Icy,22,Urban,Medium,1,Low
+88.88853020500906,Sunny,Dry,23,Rural,Medium,0,Medium
+107.33229158608077,Sunny,Wet,16,Urban,Low,0,Medium
+83.62913539792481,Snowy,Wet,15,Urban,Medium,1,Medium
+96.1121537043158,Snowy,Wet,14,Rural,Medium,1,Medium
+36.0071634954573,Snowy,Dry,12,Highway,Medium,0,High
+66.15574744197899,Foggy,Wet,14,Rural,High,1,Medium
+20.93316198270933,Sunny,Wet,3,Urban,Medium,0,Low
+44.66788645216231,Foggy,Wet,15,Rural,Low,0,Medium
+92.64617151130048,Sunny,Icy,11,Urban,High,1,Medium
+119.18099513493634,Sunny,Icy,3,Urban,High,1,Medium
+29.91780995872159,Rainy,Dry,2,Rural,Low,0,Low
+60.14943158612883,Sunny,Dry,21,Urban,Medium,0,Low
+100.00709686991596,Sunny,Wet,16,Highway,High,1,High
+40.403563462889885,Foggy,Icy,21,Urban,High,1,Low
+75.50849493022862,Sunny,Under Maintenance,17,Rural,High,1,Medium
+93.30712960296748,Foggy,Under Maintenance,17,Highway,Medium,1,High
+81.5985450260179,Snowy,Wet,22,Highway,High,1,High
+38.80247346154161,Sunny,Wet,16,Urban,Low,0,Low
+55.538456868573945,Sunny,Icy,11,Rural,Medium,0,Low
+98.37917844853972,Foggy,Icy,22,Urban,Low,1,Medium
+75.42265141320166,Snowy,Icy,20,Urban,Low,1,Medium
+20.522961354291272,Rainy,Dry,23,Rural,High,1,Low
+96.09907600280938,Snowy,Dry,3,Rural,High,1,Medium
+23.531135494023907,Foggy,Wet,11,Urban,High,1,Low
+94.57337827312321,Snowy,Dry,22,Highway,Low,0,High
+40.24805601652374,Foggy,Icy,21,Urban,Medium,1,Low
+115.80734801193802,Foggy,Icy,20,Highway,High,1,High
+56.79407513020845,Rainy,Dry,19,Urban,High,1,Low
+52.69316163380791,Sunny,Under Maintenance,14,Rural,Low,0,Low
+34.888805033244466,Foggy,Wet,22,Highway,Medium,0,Medium
+50.560421549021484,Foggy,Under Maintenance,15,Rural,Low,1,Low
+107.66507618282006,Rainy,Wet,4,Rural,High,1,Medium
+119.63343376272474,Foggy,Under Maintenance,20,Rural,Low,1,High
+56.83095305068483,Sunny,Dry,14,Rural,High,0,Medium
+64.86106309545426,Rainy,Wet,16,Rural,Medium,1,Medium
+92.2070938202737,Sunny,Wet,17,Urban,Low,0,Medium
+108.61957804650746,Sunny,Wet,4,Highway,High,1,High
+79.30443341867841,Rainy,Icy,12,Urban,High,1,Medium
+59.15256981778293,Foggy,Icy,18,Urban,High,1,Medium
+61.262184084862376,Sunny,Under Maintenance,12,Urban,High,1,Medium
+89.56181464968068,Sunny,Dry,17,Rural,Low,0,Medium
+20.321826360427867,Sunny,Icy,13,Urban,High,1,Low
+81.95893374598407,Sunny,Wet,3,Highway,Low,0,High
+55.54930104413574,Rainy,Icy,3,Urban,High,1,Low
+99.41973312770843,Rainy,Dry,19,Rural,Low,1,Medium
+29.299063982313214,Snowy,Icy,19,Highway,Low,0,Medium
+78.82022669483905,Snowy,Wet,18,Highway,High,1,High
+68.09728898861238,Sunny,Under Maintenance,12,Highway,High,1,High
+84.23255259052274,Foggy,Wet,11,Highway,High,1,High
+26.485359448296833,Sunny,Dry,6,Urban,High,0,Low
+77.99837874281313,Foggy,Under Maintenance,11,Rural,Medium,1,Medium
+76.14845879595237,Sunny,Icy,20,Highway,High,1,High
+76.0660094416171,Snowy,Icy,3,Highway,High,1,High
+80.34876665964548,Snowy,Icy,1,Rural,High,1,Medium
+87.64679372263622,Foggy,Under Maintenance,1,Urban,Low,1,Medium
+100.49889996807697,Sunny,Wet,4,Highway,High,1,High
+46.98207201282143,Foggy,Under Maintenance,22,Urban,Low,1,Medium
+102.5049410180062,Snowy,Under Maintenance,9,Urban,Low,1,Medium
+69.82556822634535,Sunny,Dry,9,Urban,Low,0,Medium
+27.70582791343312,Sunny,Under Maintenance,8,Urban,Low,0,Low
+25.85509292439792,Foggy,Icy,12,Highway,Medium,1,Medium
+53.42383186960608,Rainy,Wet,6,Highway,High,1,Medium
+98.48969771114676,Foggy,Wet,4,Urban,Low,1,Medium
+90.76809347409157,Snowy,Wet,9,Urban,High,1,Medium
+98.86149646724064,Snowy,Icy,9,Rural,Low,1,Medium
+71.72690564416094,Snowy,Icy,5,Rural,Medium,1,Medium
+64.01989979554907,Snowy,Icy,18,Rural,Low,1,Low
+34.745252670628396,Snowy,Icy,20,Highway,High,1,High
+52.81927536093116,Rainy,Icy,7,Rural,High,1,Low
+63.40193661738753,Sunny,Under Maintenance,0,Highway,Medium,0,High
+28.860042967961725,Foggy,Icy,16,Highway,High,1,Medium
+42.06119527112112,Foggy,Icy,6,Highway,High,1,Medium
+79.82252940637389,Snowy,Icy,13,Highway,Low,1,High
+93.56631142391899,Foggy,Icy,20,Rural,High,1,Medium
+119.83475113929497,Snowy,Wet,20,Urban,Low,1,Medium
+113.31133313435576,Rainy,Icy,16,Urban,Medium,1,High
+84.25651995351916,Rainy,Under Maintenance,8,Urban,High,1,Low
+62.1248053294072,Sunny,Under Maintenance,16,Rural,Low,0,Medium
+83.61773647082327,Rainy,Under Maintenance,4,Urban,High,1,Low
+98.56516180802319,Rainy,Dry,19,Rural,Low,1,Medium
+31.833619092338733,Sunny,Wet,7,Rural,Medium,0,Low
+60.99048896962883,Foggy,Icy,5,Rural,Low,1,Medium
+103.98022856356172,Snowy,Dry,10,Urban,High,1,Medium
+58.3832951933044,Snowy,Icy,18,Urban,Low,1,Low
+77.18722712271865,Foggy,Dry,3,Urban,High,1,Low
+78.77693608621982,Sunny,Dry,17,Highway,Medium,0,High
+38.447625313363936,Foggy,Under Maintenance,0,Rural,Low,1,Low
+56.22354416522884,Rainy,Under Maintenance,12,Highway,High,1,High
+53.451128874193216,Sunny,Dry,13,Rural,High,0,Low
+22.61967085320648,Sunny,Under Maintenance,23,Urban,High,0,Low
+22.419176389135526,Sunny,Dry,0,Rural,Low,0,Low
+103.16970436757735,Snowy,Wet,10,Rural,Low,1,High
+47.30708099728124,Foggy,Under Maintenance,16,Highway,Low,1,Medium
+71.80787662388154,Sunny,Under Maintenance,3,Rural,Medium,0,Medium
+49.8725573588773,Sunny,Under Maintenance,11,Urban,High,1,Low
+114.06792451153404,Sunny,Wet,9,Rural,High,1,Medium
+45.92967588657737,Foggy,Dry,5,Rural,Medium,0,Low
+62.96568127389351,Snowy,Icy,0,Rural,Medium,1,Low
+107.27302504846018,Rainy,Under Maintenance,6,Highway,Low,1,High
+104.19335667918087,Snowy,Dry,20,Rural,Low,0,Medium
+38.61014178462773,Sunny,Wet,15,Rural,Low,0,Low
+100.26433097957104,Snowy,Icy,23,Highway,Low,1,High
+65.81868867378927,Snowy,Under Maintenance,13,Highway,Low,1,Medium
+68.29688720853552,Rainy,Wet,22,Highway,Low,1,High
+33.34799724159438,Foggy,Wet,19,Highway,Medium,1,Medium
+28.060151375712465,Foggy,Icy,19,Urban,Medium,0,Low
+92.79393069737652,Snowy,Dry,5,Urban,Medium,1,Medium
+69.64611523552998,Snowy,Under Maintenance,21,Rural,High,1,Low
+63.68507026151796,Foggy,Under Maintenance,4,Urban,High,1,Medium
+92.95082286523967,Foggy,Dry,23,Rural,Low,1,Medium
+96.55128989911097,Rainy,Dry,20,Urban,Medium,1,Medium
+35.89081676693536,Sunny,Dry,17,Highway,High,0,Medium
+81.02251494776414,Snowy,Icy,14,Highway,High,1,High
+33.535408227768556,Foggy,Icy,5,Urban,Medium,1,Low
+95.13750860290457,Snowy,Under Maintenance,18,Urban,High,1,Medium
+85.69551562671396,Snowy,Icy,0,Rural,High,1,Low
+115.6614621083458,Foggy,Wet,0,Rural,Medium,1,Medium
+26.89580163564212,Rainy,Under Maintenance,12,Rural,High,1,Low
+25.70547211512543,Snowy,Icy,2,Highway,Medium,1,Medium
+48.218707469320016,Rainy,Dry,9,Highway,High,1,High

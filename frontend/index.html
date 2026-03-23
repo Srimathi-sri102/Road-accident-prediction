@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RoadSafe AI | Accident Risk & Severity Prediction</title>
+    <meta name="description" content="AI-powered road accident risk and severity prediction dashboard using Random Forest and Neural Network models.">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Particles.js -->
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+</head>
+<body>
+<div id="particles-js"></div>
+<div class="app-container">
+
+    <!-- Sidebar -->
+    <nav class="sidebar" id="sidebar">
+        <div class="logo">
+            <div class="logo-icon">🔮</div>
+            <div>
+                <h1>RoadSafe <span class="gradient-text">AI</span></h1>
+                <p class="logo-sub">Neural Network Analytics</p>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <p class="section-label">Navigation</p>
+            <ul class="nav-links">
+                <li class="active" data-page="dashboard" id="nav-dashboard">
+                    <span class="nav-icon">📊</span> Dashboard
+                </li>
+                <li data-page="map" id="nav-map">
+                    <span class="nav-icon">🗺️</span> Hotspot Map
+                </li>
+                <li data-page="history" id="nav-history">
+                    <span class="nav-icon">📋</span> History
+                    <span class="badge" id="history-count">0</span>
+                </li>
+                <li data-page="metrics" id="nav-metrics">
+                    <span class="nav-icon">📊</span> Model Performance
+                </li>
+            </ul>
+        </div>
+
+        <div class="sidebar-section">
+            <p class="section-label">Model Info</p>
+            <div class="model-info-box">
+                <div class="model-tag rf">Random Forest</div>
+                <small>Risk Prediction</small>
+                <div class="model-tag mlp" style="margin-top:0.5rem">Neural Network</div>
+                <small>Severity Classification</small>
+            </div>
+        </div>
+
+        <div class="sidebar-footer">
+            <div class="server-status">
+                <span class="pulse-dot" id="server-dot"></span>
+                <span id="server-label">Connecting...</span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main -->
+    <main class="main-content">
+
+        <!-- Header -->
+        <header>
+            <div class="header-left">
+                <button class="hamburger" id="hamburger">☰</button>
+                <div>
+                    <h2 id="page-title">Live Risk Dashboard</h2>
+                    <p id="page-sub">Configure road conditions and run the ML analysis.</p>
+                </div>
+            </div>
+            <div class="header-right">
+                <div class="search-box">
+                    <span>🔍</span>
+                    <input type="text" id="map-search" placeholder="Search city / location…">
+                    <button id="search-btn">Go</button>
+                </div>
+                <button class="status-badge" id="voice-toggle" style="background: rgba(79,70,229,0.1); border-color: var(--primary); color: var(--text); cursor: pointer; transition: 0.3s;">
+                    🔇 Voice Off
+                </button>
+                <button class="icon-btn" id="export-btn" title="Export Results">📤</button>
+                <button class="icon-btn" id="reset-btn" title="Reset Form">🔄</button>
+                <div class="status-badge" id="connection-status">● Checking…</div>
+            </div>
+        </header>
+
+        <!-- Stats Bar -->
+        <div class="stats-bar" id="stats-bar">
+            <div class="stat-item">
+                <span class="stat-val" id="stat-predictions">0</span>
+                <span class="stat-label">Predictions Run</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-val" id="stat-avg-risk">—</span>
+                <span class="stat-label">Avg Risk Score</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-val" id="stat-high-risk">0</span>
+                <span class="stat-label">High Risk Events</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-val" id="stat-last-sev">—</span>
+                <span class="stat-label">Last Severity</span>
+            </div>
+        </div>
+
+        <!-- PAGE: Dashboard -->
+        <section class="page active" id="page-dashboard">
+            <div class="dashboard-grid">
+
+                <!-- Input Card -->
+                <div class="card input-card">
+                    <div class="card-header">
+                        <h3>⚙️ Simulation Parameters</h3>
+                        <button id="auto-detect-btn" style="background: transparent; border: 1px solid var(--primary); color: var(--primary); border-radius: 6px; padding: 4px 8px; font-size: 0.7rem; font-weight: 700; cursor: pointer; transition: 0.3s;">
+                            📍 Auto-Detect Live
+                        </button>
+                    </div>
+                    <form id="prediction-form">
+                        <div class="speed-group">
+                            <label>🚗 Speed <span class="unit">(km/h)</span></label>
+                            <div class="speed-row">
+                                <input type="range" id="speed" min="20" max="150" value="60"
+                                       oninput="document.getElementById('speedVal').textContent=this.value">
+                                <div class="speed-badge" id="speedVal">60</div>
+                            </div>
+                        </div>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label>🌦️ Weather</label>
+                                <select id="weather">
+                                    <option value="Sunny">☀️ Sunny</option>
+                                    <option value="Rainy">🌧️ Rainy</option>
+                                    <option value="Foggy">🌫️ Foggy</option>
+                                    <option value="Snowy">❄️ Snowy</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>🛣️ Road Condition</label>
+                                <select id="road_condition">
+                                    <option value="Dry">Dry</option>
+                                    <option value="Wet">Wet</option>
+                                    <option value="Icy">Icy</option>
+                                    <option value="Under Maintenance">Maintenance</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label>🕐 Time of Day <span class="unit">(24h)</span></label>
+                                <input type="number" id="time" min="0" max="23" value="12">
+                            </div>
+                            <div class="form-group">
+                                <label>📍 Location Type</label>
+                                <select id="location">
+                                    <option value="Urban">Urban</option>
+                                    <option value="Rural">Rural</option>
+                                    <option value="Highway">Highway</option>
+                                </select>
+                            </div>
+                            <div class="form-group" style="grid-column: span 2;">
+                                <label>🚦 Traffic Density</label>
+                                <div class="traffic-pills">
+                                    <label class="pill"><input type="radio" name="traffic" value="Low" id="t-low" checked><span>Low</span></label>
+                                    <label class="pill"><input type="radio" name="traffic" value="Medium" id="t-med"><span>Medium</span></label>
+                                    <label class="pill"><input type="radio" name="traffic" value="High" id="t-high"><span>High</span></label>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" id="predict-btn">
+                            <span id="btn-text">🔬 Analyze Risk</span>
+                            <div id="loading-spinner" class="spinner hidden"></div>
+                        </button>
+                    </form>
+                </div>
+
+                <!-- Risk Circle Card -->
+                <div class="card result-card risk-card">
+                    <div class="card-header"><h3>⚠️ Accident Risk</h3><span class="model-chip">Random Forest</span></div>
+                    <div class="risk-display">
+                        <div class="progress-circle">
+                            <svg viewBox="0 0 150 150" width="150" height="150">
+                                <circle cx="75" cy="75" r="60" class="circle-bg"/>
+                                <circle cx="75" cy="75" r="60" class="circle-fg" id="risk-progress"/>
+                            </svg>
+                            <div class="risk-value">
+                                <span id="risk-percentage">0%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="risk-level-tag" id="risk-level-tag">N/A</div>
+                    <div class="risk-bar-wrap">
+                        <div class="risk-bar">
+                            <div class="risk-bar-fill" id="risk-bar-fill"></div>
+                        </div>
+                        <small class="risk-bar-labels"><span>Safe</span><span>Critical</span></small>
+                    </div>
+                </div>
+
+                <!-- Severity Card -->
+                <div class="card result-card severity-card">
+                    <div class="card-header"><h3>💥 Severity Level</h3><span class="model-chip">Neural Net</span></div>
+                    <div class="severity-display" id="severity-display">
+                        <div class="sev-ring" id="sev-ring">
+                            <span id="severity-emoji">⏳</span>
+                        </div>
+                        <div class="sev-text">
+                            <span id="severity-label">AWAITING</span>
+                        </div>
+                    </div>
+                    <div class="severity-desc" id="severity-desc">Run analysis to see predicted severity.</div>
+                    <div class="sev-breakdown">
+                        <div class="sev-prob" id="sev-low"><span>Low</span><div class="sev-bar"><div style="width:0%"></div></div></div>
+                        <div class="sev-prob" id="sev-med"><span>Med</span><div class="sev-bar"><div style="width:0%"></div></div></div>
+                        <div class="sev-prob" id="sev-high"><span>High</span><div class="sev-bar"><div style="width:0%"></div></div></div>
+                    </div>
+                    <div class="ai-summary-box" id="ai-summary" style="display:none">
+                        <strong>AI Summary:</strong> <span id="ai-summary-text"></span>
+                    </div>
+                </div>
+
+                <!-- Feature Importance Chart -->
+                <div class="card chart-card">
+                    <div class="card-header"><h3>📈 Feature Importance</h3><span class="model-chip">RF</span></div>
+                    <canvas id="importanceChart"></canvas>
+                </div>
+
+                <!-- Trend Chart -->
+                <div class="card chart-card">
+                    <div class="card-header"><h3>📉 Severity Trend</h3><span class="model-chip">Neural Net</span></div>
+                    <canvas id="trendChart"></canvas>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- PAGE: Map -->
+        <section class="page" id="page-map">
+            <div class="map-full-card card">
+                <div class="map-toolbar" style="border-bottom: 1px solid rgba(255,255,255,0.05); gap: 0.75rem;">
+                    <div style="display: flex; gap: 0.5rem; flex: 1; align-items: center; min-width: 300px;">
+                        <input type="text" id="route-start" placeholder="Starting Point (e.g., Guindy)" style="flex: 1; background: rgba(0,0,0,0.3); border: 1px solid var(--card-border); color: var(--text); padding: 0.5rem 0.6rem; border-radius: 8px; font-size: 0.8rem; font-family: inherit;">
+                        <span style="color: var(--muted); font-weight: bold;">→</span>
+                        <input type="text" id="route-end" placeholder="Destination (e.g., Marina)" style="flex: 1; background: rgba(0,0,0,0.3); border: 1px solid var(--card-border); color: var(--text); padding: 0.5rem 0.6rem; border-radius: 8px; font-size: 0.8rem; font-family: inherit;">
+                        <button id="calc-route-btn" style="background: linear-gradient(135deg, var(--secondary), var(--primary)); color: #fff; border: none; padding: 0.5rem 1rem; border-radius: 8px; font-weight: 800; cursor: pointer; font-size: 0.8rem; transition: 0.3s; box-shadow: 0 4px 15px rgba(79,70,229,0.4);">
+                            Smart Route Map
+                        </button>
+                    </div>
+                </div>
+                <div class="map-toolbar">
+                    <div class="map-legend">
+                        <span><i class="dot red"></i> High Risk</span>
+                        <span><i class="dot orange"></i> Medium Risk</span>
+                        <span><i class="dot blue pulse-blue"></i> High Traffic</span>
+                        <span><i class="dot green"></i> Safe Zone</span>
+                    </div>
+                    <div class="map-controls">
+                        <button class="map-ctrl-btn active" id="btn-all">All</button>
+                        <button class="map-ctrl-btn" id="btn-risk">Risk Only</button>
+                        <button class="map-ctrl-btn" id="btn-traffic">Traffic</button>
+                    </div>
+                </div>
+                <div id="map"></div>
+            </div>
+        </section>
+
+        <!-- PAGE: History -->
+        <section class="page" id="page-history">
+            <div class="card history-card">
+                <div class="card-header">
+                    <h3>📋 Prediction History</h3>
+                    <button class="clear-btn" id="clear-history">Clear All</button>
+                </div>
+                <div class="history-table-wrap">
+                    <table class="history-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Time</th>
+                                <th>Speed</th>
+                                <th>Weather</th>
+                                <th>Location</th>
+                                <th>Traffic</th>
+                                <th>Risk %</th>
+                                <th>Severity</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-body">
+                            <tr class="empty-row"><td colspan="8">No predictions yet. Run an analysis to see results here.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <!-- PAGE: Metrics -->
+        <section class="page" id="page-metrics">
+            <div class="dashboard-grid" style="grid-template-columns: 1fr 1fr;">
+                <div class="card metrics-card">
+                    <div class="card-header">
+                        <h3>🌲 Random Forest (Risk) Performance</h3>
+                    </div>
+                    <div class="metrics-grid" id="rf-metrics">
+                        <!-- Filled by JS -->
+                    </div>
+                </div>
+
+                <div class="card metrics-card">
+                    <div class="card-header">
+                        <h3>🧠 Neural Network (Severity) Performance</h3>
+                    </div>
+                    <div class="metrics-grid" id="mlp-metrics">
+                        <!-- Filled by JS -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
